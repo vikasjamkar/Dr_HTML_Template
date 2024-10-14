@@ -1,0 +1,119 @@
+/* 
+==========================================================
+ Application: Responsive Feedback Form
+ Copyright 2012 - 2015, All Rights Reserved
+ Developer: Palkesh Chaudhari | mipl.co.in
+ ==========================================================
+ File: form.css
+ File Date: 17-01-2015
+ Description:
+ Responsive Feedback Form
+ ==========================================================
+*/
+#FeedbackForm * {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+
+}
+#FeedbackForm p {
+	font-size:14px;
+	line-height:25px;
+	text-align:left;
+	text-transform:uppercase;
+}
+#FeedbackForm .inputField {
+	display:block;
+	width:100%;
+	height:37px;
+	padding:5px 5px 5px 10px;
+	margin-bottom:15px;
+	border:1px solid #ddd;
+	resize:none;
+	font-size: 15px;
+color: #8d8383;
+}
+#FeedbackForm textarea {
+	display:block;
+	width:100%;
+	margin-bottom:10px;
+	line-height:20px;
+	padding-left:5px;
+	border:1px solid #B9B9B9
+}
+#FeedbackForm textarea:last-of-type {
+	height:70px
+}
+#FeedbackForm .capchaImage {
+	width:100%;
+	margin:10px auto
+}
+#FeedbackForm .formButton {
+padding: 7px 34px;
+
+background-color: #726e6e;
+cursor: pointer;
+display: inline-block;
+margin-right: 5px;
+font-size: 15px;
+border: none;
+color: #fff;
+border-radius: 5px 0 5px 0;
+}
+#FeedbackForm .formButton:hover{
+	background-color: #0562ce;
+}
+
+.clear {
+	clear:both
+}
+@media screen and (min-width:481px) {
+#FeedbackForm .LeftForm {
+	float:left;
+	width:50%;
+	padding-right:10px
+}
+#FeedbackForm .RightForm {
+	float:left;
+	width:50%
+}
+}
+@media screen and (max-width:480px) {
+#FeedbackForm .LeftForm, #FeedbackForm .RightForm {
+	float:none;
+	width:99%;
+	padding-right:0;
+	margin:0px auto
+}
+#FeedbackForm .inputField {
+	margin:5px 0
+}
+#FeedbackForm .capchaImage {
+	text-align:center
+}
+#FeedbackForm .buttonWrapper {
+	width:150px;
+	margin:auto
+}
+#FeedbackForm p {
+	font-size:12px;
+	line-height:22px;
+	text-align:center;
+}
+}
+@media (max-width:500px)
+{
+	#FeedbackForm .formButton {
+    padding: 5px 11px;
+    background-color: #0cb5fb;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 1.4em;
+    border: none;
+    color: #fff;
+    border-radius: 5px 0 5px 0;
+}
+}

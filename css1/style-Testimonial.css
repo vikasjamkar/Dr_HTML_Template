@@ -1,0 +1,115 @@
+/** Testimonials**/
+
+h4.text {
+       background: none;
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+    text-transform: none;
+    margin: 3% auto 0;
+    width: 74%;
+}
+.w3_ic {
+    text-align: center;
+}
+.img-agile img {
+    width: 13%;
+}
+
+.testimonials h5{
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+    text-transform: none;
+    margin-top: 1em;	
+}
+.test-review p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    /*! padding: 0px 25px; */
+    color: #000;
+	/*! letter-spacing:1px; */
+	text-align:center;
+}
+.test-review img{
+	 border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	    box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);
+    -webkit-box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);
+    -moz-box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);
+    -o-box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);
+    -ms-box-shadow:0 10px 20px rgba(0, 0, 0, 0.41);
+}
+.img-agile {
+    margin: 30px 0px 12px;
+}
+.test-review p img {
+    margin: 0 10px!important;
+	box-shadow:none;
+}
+.test-review img {
+    margin: 0 auto;
+	width: 35%;
+}
+.test-review i {
+	font-size:30px;
+	color:#000;
+	margin-bottom:30px;
+}
+.testimonials{
+	background-color:#ff9d3b;
+}
+.testimonials h3 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 70px;
+    color: #fff;
+}
+.testimonials{
+	padding:5em 0em;
+}
+.test-review {
+    background-color: #f56235;
+    width: 93%;
+    border-radius: 5px;
+	padding: 2em;
+   /* hight: 400px;*/
+    /*! padding-top: 203px; */
+    /*! height: 450px; */
+}
+/* testimonals */
+.testimonal img {
+    border-radius: 50%; 
+}
+.testimonals {
+    padding: 5em 0;
+}
+.first-grid {
+    text-align: center;
+    padding: 40px 10px;
+    margin-right: 10px;
+	background: #000;
+}
+.first-grid h3 {
+    text-transform: uppercase;
+    color: #FFC107;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 20px 0 0;
+}
+.first-grid  h4 {
+    margin: 5px 0;
+    text-transform: capitalize;
+}
+.first-grid p {
+    font-size: 14px;
+    color: #999;
+    margin: 10px 0;
+    line-height: 24px;
+}
+/*-- testimonials --*/
+
+
