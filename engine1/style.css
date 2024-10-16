@@ -3,9 +3,9 @@
  *	template Studio
  */
 @import url("http://fonts.googleapis.com/css?family=Simonetta&subset=latin,latin-ext");
-#wowslider-container1 { 
-	zoom: 1; 
-	position: relative; 
+#wowslider-container1 {
+	zoom: 1;
+	position: relative;
 	max-width:1350px;
 	margin:0px auto 9px;
 	z-index:0;
@@ -15,7 +15,7 @@
 * html #wowslider-container1{ width:1350px }
 #wowslider-container1 .ws_images ul{
 	position:relative;
-	width: 10000%; 
+	width: 10000%;
 	height:auto;
 	left:0;
 	list-style:none;
@@ -23,6 +23,7 @@
 	padding:0;
 	border-spacing:0;
 	overflow: visible;
+
 	/*table-layout:fixed;*/
 }
 #wowslider-container1 .ws_images ul li{
@@ -41,6 +42,7 @@
 	width:100%;
 	height:100%;
 	overflow:hidden;
+	z-index: -10;
 }
 #wowslider-container1 .ws_images a{
 	width:100%;
@@ -56,14 +58,14 @@
 	max-width: none;
 	padding:0;
 }
-#wowslider-container1 a{ 
-	text-decoration: none; 
-	outline: none; 
-	border: none; 
+#wowslider-container1 a{
+	text-decoration: none;
+	outline: none;
+	border: none;
 }
 
-#wowslider-container1  .ws_bullets { 
-	font-size: 0px; 
+#wowslider-container1  .ws_bullets {
+	font-size: 0px;
 	float: left;
 	position:absolute;
 	z-index:70;
@@ -75,26 +77,26 @@
 #wowslider-container1  .wsl{
 	display:none;
 }
-#wowslider-container1 sound, 
+#wowslider-container1 sound,
 #wowslider-container1 object{
 	position:absolute;
 }
 
-#wowslider-container1  .ws_bullets { 
-	padding: 10px; 
+#wowslider-container1  .ws_bullets {
+	padding: 10px;
 }
-#wowslider-container1 .ws_bullets a { 
+#wowslider-container1 .ws_bullets a {
 	margin-left:5px;
 	width:20px;
 	height:19px;
 	background: url(./bullet.png) left top;
-	float: left; 
-	text-indent: -4000px; 
+	float: left;
+	text-indent: -4000px;
 	position:relative;
 	color:transparent;
 }
 #wowslider-container1 .ws_bullets a.ws_selbull, #wowslider-container1 .ws_bullets a:hover{
-	background-position: 0 100%; 
+	background-position: 0 100%;
 }
 #wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
 	position:absolute;
@@ -105,7 +107,7 @@
 	height: 60px;
 	width: 34px;
 	background-image: url(./arrows.png);
-	opacity: 0.8; 
+	opacity: 0.8;
 }
 #wowslider-container1 a.ws_next{
 	background-position: 100% 0;
@@ -113,15 +115,15 @@
 }
 #wowslider-container1 a.ws_prev {
 	left:10px;
-	background-position: 0 0; 
+	background-position: 0 0;
 }
 #wowslider-container1 a.ws_next:hover{
 	background-position: 100% 100%;
-	opacity: 1; 
+	opacity: 1;
 }
 #wowslider-container1 a.ws_prev:hover {
-	background-position: 0 100%; 
-	opacity: 1; 
+	background-position: 0 100%;
+	opacity: 1;
 }
 * html #wowslider-container1 a.ws_next,* html #wowslider-container1 a.ws_prev{display:block}
 #wowslider-container1:hover a.ws_next, #wowslider-container1:hover a.ws_prev {display:block}
@@ -170,24 +172,24 @@
 	z-index: 50;
 	padding:10px 1%;
 	color: #FFFFFF;
-	text-transform:none; 
+	text-transform:none;
 	background:#000000;
     font-family: 'Simonetta',Comic Sans MS,cursive;
 	font-size: 24px;
 	line-height: 26px;
-	text-align: center; 
+	text-align: center;
 	font-weight: normal;
-	width: 98%; 
+	width: 98%;
 	border-radius:0;
 	opacity:0.5;
-	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);	
-	
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+
 }
 #wowslider-container1 .ws-title div{
 	padding-top:5px;
 	font-size: 15px;
 	line-height: 17px;
-	text-transform:none; 
+	text-transform:none;
 }
 #wowslider-container1:hover .ws-title {
 	opacity:0.8;
@@ -201,7 +203,7 @@
 @-webkit-keyframes wsBasic{0%{left:-0%} 12.5%{left:-0%} 25%{left:-100%} 37.5%{left:-100%} 50%{left:-200%} 62.5%{left:-200%} 75%{left:-300%} 87.5%{left:-300%} }
 
 #wowslider-container1 {
-	box-shadow: 0 1px 1px #FFFFFF inset, 0 1px 3px rgba(0, 0, 0, 0.4); 
+	box-shadow: 0 1px 1px #FFFFFF inset, 0 1px 3px rgba(0, 0, 0, 0.4);
 }
 #wowslider-container1 .ws_bullets  a img{
 	text-indent:0;
@@ -212,7 +214,7 @@
 	position:absolute;
     border: 5px solid #ffffff;
 	-moz-box-shadow: 0 0 5px #000000;
-    box-shadow: 0 0 5px #000000; 
+    box-shadow: 0 0 5px #000000;
 	max-width:none;
 }
 #wowslider-container1 .ws_bullets a:hover img{
@@ -239,7 +241,7 @@
 	cursor:pointer;
     border: 5px solid #ffffff;
 	-moz-box-shadow: 0 0 5px #000000;
-    box-shadow: 0 0 5px #000000; 
+    box-shadow: 0 0 5px #000000;
 }
 #wowslider-container1 .ws_bulframe span{
 	display:block;
@@ -277,3 +279,35 @@ ul{
 .bbb{
 	padding-right:50px;
 }
+
+/* Ensure the list item is relatively positioned */
+.ws_images ul li {
+    position: relative;
+	background-color: red;
+	z-index: -10;
+  }
+
+  /* Position slider-content absolutely within the list item */
+  .owl-slider-btn{
+    position: absolute !important;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000; /* Ensure it's on top of the image */
+  }
+
+  /* Style for the Read More button */
+  .owl-slider-btn .read-more-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    z-index: 15; /* Ensure it's higher than the image */
+  }
+
+  /* Hover effect for the Read More button */
+  .read-more-btn:hover {
+    background-color: #0056b3;
+  }

@@ -1,124 +1,9 @@
-<html class="no-js" lang="">
-<head>
+<?php include "header.php"?>
 
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>A2Z ADCON LLP - prashant khankhoje</title>
-
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <!-- Place favicon.ico in the root directory -->
-    <!-- all css here -->
-    <!-- <link href="css/font-awesome.css" rel="stylesheet">  -->
-    <link rel="stylesheet" href="css/lightbox.css">
-    <!-- bootstrap v3.3.7 css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- animate css -->
-    <link rel="stylesheet" href="css/animate.css">
-    <!-- owl.carousel.2.0.0-beta.2.4 css -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <!-- swiper.min.css -->
-    <link rel="stylesheet" href="css/swiper.min.css">
-    <!-- font-awesome v4.6.3 css -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <!-- flaticon.css -->
-    <link rel="stylesheet" href="css/flaticon.css">
-    <!-- magnific-popup.css -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <!-- metisMenu.min.css -->
-    <link rel="stylesheet" href="css/metisMenu.min.css">
-    <!-- style css -->
-    <link rel="stylesheet" href="css/styles.css">
-    <!-- responsive css -->
-    <link rel="stylesheet" href="css/responsive.css">
-    <!-- modernizr css -->
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-
-    
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;500&display=swap" rel="stylesheet">
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
-<!-- Start WOWSlider.com HEAD section -->
-    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
-    <script type="text/javascript" src="engine1/jquery.js"></script>
-    <!-- End WOWSlider.com HEAD section -->
-
-    
-<!-- <link href="css/form.css" rel="stylesheet" type="text/css" media="all" />
-<script language=JavaScript src="js/feedbackallNew.js" type=text/javascript></script>
 <?php
 $mynumber= rand(673,62389);
 $ilength=strlen($mynumber);
 ?>
-<script type="text/javascript">
-//defining variable and storinging in script
-var randomnumber= <?= $mynumber?>;
-// Validating
-</script>   --> 
-
-
-<link href="css/form.css" rel="stylesheet" type="text/css" media="all" />
-<script language=JavaScript src="feedbackallNew_country.js" type=text/javascript></script>
-
-
-
- 
-</head>
-
-<body>
-
-    
-    <!-- header-area start -->
-    <header class="header-area ">
-       
-        <div class="header-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-sm-7 col-12">
-                        <div class="logo">
-                            <a href="index.html">
-                                <img src="images/prashant-khankhoje-logo.jpg" class="img1" alt="Prashant Khankhoje - Time Management, Transformation, Coach, Maharashtra" title="Prashant Khankhoje - Time Management, Transformation, Coach, Maharashtra">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-sm-9 d-none d-lg-block">
-                        <ul class="mainmenu d-flex justify-content-end">
-                   
-                   <li><a href="index.html">Home</a></li>
-                    <li><a href="about-prashant-khankhoje.html">About Us</a></li>
-                    <li><a href="#">Our Expertise</a>
-                  <ul class="dropdown">
-                    <li><a href="emotional-chakravuh.html">Emotional Chakravuh</a></li>
-                    <li><a href="happiness-unlimited.html">Happiness Unlimited</a></li>
-                    <li><a href="coping-with-climate-change.html">Coping with Climate Change</a></li>
-                    <li><a href="special-mind-training-modules.html">Special Mind Training Modules</a></li>
-                    <li><a href="time-management.html">Time management</a></li>
-                    <li><a href="team-building.html">Team Building</a></li>
-                    <li><a href="career-opportunities.html">Career Opportunities</a></li>
-                   </ul>
-                </li>
-                <li><a href="testimonials.html">Testimonials</a></li>                  
-                <li><a href="photo-gallery.html">Photo Gallery</a></li>
-                <li><a href="contact-prashant-khankhoje.html">Contact us</a></li>
-                <li class="active"><a href="enquiry.php">Enquiry</a></li>
-                
-
-                </ul>
-
-
-                    </div>
-           
-                </div>
-            </div>
-       
-        </div>
-        
-    </header>
-    <!-- header-area end -->
-
-<div class="clearfix"></div>	
-
-
 <div class="clearfix"></div>
 
 <!-- Start Breadcrumbs -->
@@ -128,20 +13,20 @@ var randomnumber= <?= $mynumber?>;
                 <div class="col-md-12">
                     <h1>Connect with us </h1>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">Connect with us </li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
-    <!--/ End Breadcrumbs -->   
-            
-    
-<div class="clearfix"></div>    
+    <!--/ End Breadcrumbs -->
 
-    
-<!------- Enquiry ----------->  
+
+<div class="clearfix"></div>
+
+
+<!------- Enquiry ----------->
 <div class="contact-page-area1 wow zoomIn w3l-enquiry" data-wow-duration="800ms" data-wow-delay="1000ms">
         <div class="container">
             <div class="row">
@@ -151,9 +36,9 @@ var randomnumber= <?= $mynumber?>;
 <div class="container">
     <div class="row">
         <div class=" col-md-12 col-lg-12 col-12">
-            
+
             <form action="send_email_data.php" method="post" enctype="multipart/form-data" >
-                
+
 <input name="redirect" type="hidden">
 <input name="recipient" type="hidden" value="response@prashantkhankhoje.com">
 <input name="subject" type="hidden" value="Enquiry From Website">
@@ -169,15 +54,15 @@ var randomnumber= <?= $mynumber?>;
      </div>
        <textarea class="mt-3" cols="54" placeholder="Requirements Details :*" name="requirement_details" rows="6" maxlength="5000" class="inputField" tabindex="7" required></textarea>
 
-   
-        
-     
-      
-    
 
-     
-    
-    
+
+
+
+
+
+
+
+
 </div>
 <div class="RightForm">
  <select name="country" id="country" class="inputField" tabindex="5" required>
@@ -363,12 +248,12 @@ var randomnumber= <?= $mynumber?>;
       <option value="Romania">Romania</option>
       <option value="Russia">Russia</option>
       <option value="Rwanda">Rwanda</option>
-      <option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option> 
+      <option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
       <option value="Saint LUCIA">Saint LUCIA</option>
       <option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
       <option value="Samoa">Samoa</option>
       <option value="San Marino">San Marino</option>
-      <option value="Sao Tome and Principe">Sao Tome and Principe</option> 
+      <option value="Sao Tome and Principe">Sao Tome and Principe</option>
       <option value="Saudi Arabia">Saudi Arabia</option>
       <option value="Senegal">Senegal</option>
       <option value="Seychelles">Seychelles</option>
@@ -428,18 +313,18 @@ var randomnumber= <?= $mynumber?>;
     <input cols="33" name="Address"  maxlength="100" class="inputField" placeholder="Address / City / Location :*"  required>
 
  <input  name="telNo" type="text"  class="inputField" placeholder="Tel. No. / Cell No. :*" tabindex="3"  maxlength="10" onkeypress="return  onlyNumberKey(event)" required>
-     
-     
+
+
       <label for="html">Upload  Your File</label><br>
       <input type="file" name="attachment">
-      
-          
+
+
 
      <!--<input type="file" name="file" id="file" onchange="return validateFileExtension(this)" placeholder="Attach file"> -->
-    
+
 
     <!-- <input type="text" name="q" class="inputField" onkeypress="return event.charCode >= 48 &amp;&amp; event.charCode <= 57" placeholder="Please,Enter Below Verification Numbers here:" tabindex="7"> -->
-    <!-- <div class="form-group has-feedback mt-3">   
+    <!-- <div class="form-group has-feedback mt-3">
         <?php //include("captcha_code.php");?>
              <input  class="form-control"  name=q >
         <div class="dt-sc-margin10"></div>
@@ -453,97 +338,43 @@ var randomnumber= <?= $mynumber?>;
 
 
   <div class="clear"></div>
-  
+
   <div class="container">
     <div class="row">
         <div class="col-md-6 col-lg-6 text-right">
                       <button type="submit" name="submit_form" value="Submit" class="formButton"> Submit </button>
         </div>
-        
+
          <div class="col-md-6  col-lg-6  text-left">
              <input type="reset" value="Reset" class="formButton">
         </div>
-        
+
     </div>
-    
+
 </div>
 </form>
         </div>
-        
+
         <!--<div class="col-md-6 col-lg-6 col-12 text-center ">-->
         <!--  <img  src="images/time-management.jpg" alt="EMOTIONAL CHAKRAVUH" width="500" " class="img-responsive">-->
-            
+
         <!--</div>-->
-        
+
     </div>
 </div>
 
-</div> 
-                
+</div>
+
             </div>
         </div>
 </div>
-<!-------// Enquiry ----------->        
-    
+<!-------// Enquiry ----------->
+
 <div class="clearfix"></div>
-    
-<div class="footer-section">
-  <div class="container">
-    <div class="footer-grids wow bounceIn animated animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: bounceIn;">
-      <div class="row">
-        <div class="col-md-12 footer-grid tags" align="center"> <span class="heading4">Quick Links</span><br>
-          <ul class="tag"> 
-                    <li><a href="emotional-chakravuh.html">Emotional Chakravuh</a> - </li>
-                    <li><a href="happiness-unlimited.html">Happiness Unlimited</a> - </li>
-                    <li><a href="coping-with-climate-change.html">Coping with Climate Change</a> - </li>
-                    <li><a href="special-mind-training-modules.html">Special Mind Training Modules</a> - </li>
-                    <li><a href="time-management.html">Time management</a> - </li>
-                    <li><a href="team-building.html">Team Building</a> - </li>
-                    <li><a href="career-opportunities.html">Career Opportunities</a> - </li>
-                    <li><a href="index.html">Home</a> - </li>
-                    <li><a href="about-prashant-khankhoje.html">About Us</a> - </li>
-                    <li><a href="photo-gallery.html">Photo Gallery</a> - </li>
-                    <li><a href="testimonials.html">Testimonials</a> - </li> 
-                <li><a href="contact-prashant-khankhoje.html">Contact us</a> - </li>
-                <li><a href="enquiry.php">Enquiry</a> - </li>
-                <li><a href="sitemap.html">Sitemap</a></li>
-          </ul>
-        </div>
-        <div class="clearfix"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-  <div class="copyright">
-        <div class="container" align="center">
-            <p class="write  wow bounceInRight animated" data-wow-delay="0.4s"
-                style="visibility: visible; animation-delay: 0.4s; animation-name: bounceInRight;"> Designed And Developed By <a href="https://www.websartech.com" target="_blank">Websar IT Solutions</a>
-             
-             </p>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-    
-    
-
-    <!-- bootstrap js -->
-    <script src="js/bootstrap.min.js "></script>
-
-    <script src="js/owl.carousel.min.js "></script>
-
-    <script src="js/metisMenu.min.js"></script>
-
-    <script src="js/plugins.js "></script>
-   
-    <!-- main js -->
-    <script src="js/scripts.js "></script>
-    
     <!-------------------------------------------------------->
- <script>
-       
+    <script>
         function onlyNumberKey(evt) {
- 
+
             // Only ASCII character in that range allowed
             let ASCIICode = (evt.which) ? evt.which : evt.keyCode
             if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57))
@@ -551,7 +382,5 @@ var randomnumber= <?= $mynumber?>;
             return true;
         }
     </script>
-    
-</body>
 
-</html>
+<?php include "footer.php"?>

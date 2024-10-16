@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Owl Carousel with Read More Button</title>
+    <!-- Add Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+
+    <style>
+        /* Styling for the carousel container */
+        .owl-carousel .item {
+            position: relative;
+            text-align: center;
+            background-size: cover;
+            background-position: center;
+            height: 500px;
+        }
+
+        /* Overlay for text content */
+        .carousel-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            color: white;
+        }
+
+        /* Heading and subheading styles */
+        .carousel-title {
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .carousel-subtitle {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        /* Styling for the Read More button */
+        .read-more-btn {
+            background-color: #ff0000;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+
+        .read-more-btn:hover {
+            background-color: #e60000;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Owl Carousel -->
+<div class="owl-carousel">
+    <div class="item" style="background-image: url('data1/images/slider1.jpg');">
+        <div class="carousel-overlay">
+            <h2 class="carousel-title">Emotional Chakravyuh Learnings</h2>
+            <p class="carousel-subtitle">from Bhagavad Gita</p>
+            <a href="#" class="read-more-btn">Read More</a>
+        </div>
+    </div>
+
+    <div class="item" style="background-image: url('data1/images/slider2.jpg');">
+        <div class="carousel-overlay">
+            <h2 class="carousel-title">Life Lessons from Mahabharata</h2>
+            <p class="carousel-subtitle">Ancient Wisdom for Modern Life</p>
+            <a href="#" class="read-more-btn">Read More</a>
+        </div>
+    </div>
+
+    <div class="item" style="background-image: url('data1/images/slider3.jpg');">
+        <div class="carousel-overlay">
+            <h2 class="carousel-title">Mindfulness in Daily Life</h2>
+            <p class="carousel-subtitle">Guidance from the Gita</p>
+            <a href="#" class="read-more-btn">Read More</a>
+        </div>
+    </div>
+</div>
+
+<!-- Add jQuery and Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+
+<!-- Initialize Owl Carousel -->
+<script>
+    $(document).ready(function() {
+        $(".owl-carousel").owlCarousel({
+            items: 1,          // Show one item at a time
+            loop: true,        // Infinite looping
+            autoplay: true,    // Auto play the slides
+            autoplayTimeout: 5000, // 5 seconds delay between slides
+            dots: true,        // Show navigation dots
+            nav: true,         // Show navigation arrows
+            navText: ["<", ">"] // Custom navigation text for arrows
+        });
+    });
+</script>
+
+</body>
+</html>

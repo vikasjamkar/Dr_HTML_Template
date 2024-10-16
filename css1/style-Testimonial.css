@@ -21,7 +21,7 @@ h4.text {
     text-align: center;
     color: #000;
     text-transform: none;
-    margin-top: 1em;	
+    margin-top: 1em;
 }
 .test-review p {
     font-size: 14px;
@@ -76,40 +76,13 @@ h4.text {
     width: 93%;
     border-radius: 5px;
 	padding: 2em;
-   /* hight: 400px;*/
+    height: 400px;
     /*! padding-top: 203px; */
     /*! height: 450px; */
 }
-/* testimonals */
-.testimonal img {
-    border-radius: 50%; 
+.read-more {
+    color: white; /* Bootstrap primary color for links */
+    cursor: pointer;
 }
-.testimonals {
-    padding: 5em 0;
-}
-.first-grid {
-    text-align: center;
-    padding: 40px 10px;
-    margin-right: 10px;
-	background: #000;
-}
-.first-grid h3 {
-    text-transform: uppercase;
-    color: #FFC107;
-    font-size: 19px;
-    font-weight: 600;
-    margin: 20px 0 0;
-}
-.first-grid  h4 {
-    margin: 5px 0;
-    text-transform: capitalize;
-}
-.first-grid p {
-    font-size: 14px;
-    color: #999;
-    margin: 10px 0;
-    line-height: 24px;
-}
-/*-- testimonials --*/
 
 
