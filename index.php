@@ -199,7 +199,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
 
         </div>
         <div class="col-12 col-lg-6 col-md-6">
-         <strong>In this rapidly changing environment,</strong>
+         <strong>As business leader do you ever feel like</strong>
           <ul style="list-style-type:disc;">
             <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
             <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
@@ -239,7 +239,9 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
             <li>Coaching does not require invasive processes, large external teams and lengthy reports, analysis to get results.</li>
             <li>Coaching brings very effective results to individuals as well as organisation by empowering individuals personally & professionally to reach new heights of success, happiness, and fulfilment.</li>
           </ul>
+          
         </div>
+        <strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM</strong>
       </div>
     
     </div>
@@ -254,7 +256,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     <div class="container">
       <div class="col-12">
           <div class="section-title text-center title-gap mt-3">
-            <h2>Early Events</h2>
+            <h2>Past Events</h2>
             <img src="images/line.png" alt="" />
           </div>
         </div>
@@ -583,7 +585,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     <div id="gallery" class="jarallax w3ls-section gallery">
       <div class="col-12">
         <div class="section-title text-center title-gap">
-          <h2>Special Training Modules</h2>
+          <h2>Special Transformation & Learning Modules </h2>
           <img src="images/line.png" alt="" />
         </div>
       </div>
