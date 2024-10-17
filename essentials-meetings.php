@@ -64,7 +64,7 @@ Essentials of Meetings</p></h1><br>
 
 <div class="col-md-6">
 
-     <img src="images/meetings.jpg" alt="essentials-of-meetings" class="img-responsive img-thumbnail">
+     <img src="images/team-meeting.jpg" alt="essentials-of-meetings" class="img-responsive img-thumbnail">
 
 
 </div>

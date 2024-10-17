@@ -7,9 +7,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h2>ESG/Sustainability/SDG/BRSR Awareness & Advisory</h2>
+					<h2>ESG/Sustainability/SDG..</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">ESG/Sustainability/SDG/BRSR Awareness & Advisory</li>
 					</ul>
 				</div>
@@ -61,7 +61,7 @@
 
 <div class="col-md-6">
 
-     <img src="images/time-management.jpg" alt="Time management" class="img-responsive img-thumbnail">
+     <img src="images/ESG.png" alt="Time management" class="img-responsive img-thumbnail">
 
 
 </div>

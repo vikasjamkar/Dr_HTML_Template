@@ -61,7 +61,7 @@
 
 <div class="col-md-6">
 
-     <img src="images/time-management.jpg" alt="Time management" class="img-responsive img-thumbnail">
+     <img src="images/campus.png" alt="Time management" class="img-responsive img-thumbnail">
 
 
 </div>

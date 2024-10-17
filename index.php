@@ -173,120 +173,290 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
 
     <div class="clearfix"></div>
 
-    <div class="container">
-      <!-- <div class="row">
-        <div class="col-md-6">
-          <div class="col-12" align="center">
-            <div class="section-title">
-              <h2>EMOTIONAL CHAKRAVUH</h2>
-              <img
-                src="images/line.png"
-                alt="EMOTIONAL CHAKRAVUH"
-                align="center"
-              />
-            </div>
-          </div>
-
-          <a href="11-march-2023.html"
-            ><img
-              src="images/11-march-2023.jpg"
-              alt="EMOTIONAL CHAKRAVUH"
-              width="467"
-              height="660"
-              class="img-responsive"
-          /></a>
-
-          <br /><br />
-
-          <div align="center">
-            <a class="theme-btn btn-style-five" href="11-march-2023.html"
-              >Read more <span class="icon fa fa-arrow-right"></span
-            ></a>
-
-            <a href="11-march-2023.pdf"
-              ><img
-                src="images/pdf-icon.jpg"
-                alt="EMOTIONAL CHAKRAVUH"
-                class="img-responsive"
-            /></a>
-          </div>
+    <div id="gallery" class="jarallax w3ls-section gallery">
+      <div class="col-12">
+        <div class="section-title text-center">
+          <h2>Our Expertise</h2>
+          <img src="images/line.png" alt="" />
         </div>
-
-
-        <div class="col-md-6">
-          <div class="col-12">
-            <div class="section-title text-center">
-              <h2>Video</h2>
-              <img src="images/line.png" alt="Video" />
-            </div>
-
-            <iframe
-              width="100%"
-              height="315"
-              src="https://www.youtube.com/embed/_8Xvkdf_5gQ"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-          <br /><br />
-
+      </div>
+      <div class="gallery-w3lsrow">
+        <div class="container">
           <div class="row">
-            <div class="col-md-6">
-              <a
-                href="https://businessicon.in/strategic-business-coach-dr-prashant-khankhoje-a2z-energies/"
-                ><img
-                  src="images/news-1.jpg"
-                  alt="news"
-                  width="467"
-                  height="660"
-                  class="img-responsive img-thumbnail"
-              /></a>
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="essentials-meetings.php"
+                >
+                  <img
+                    src="images/team-meeting.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Essentials of Meeetings"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="essentials-meetings.php" class="text-dark">Essentials of Meeetings</a></h5>
+                  </div>
             </div>
 
-            <div class="col-md-6">
-              <a href="https://goldeneyenews.com/2417/"
-                ><img
-                  src="images/news-2.jpg"
-                  alt="news"
-                  width="467"
-                  height="660"
-                  class="img-responsive img-thumbnail"
-              /></a>
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="emotional-chakravuh.php"
+                >
+                  <img
+                    src="images/emotional-chakravyuh.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Emotional Chakravuh"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="emotional-chakravuh.php" class="text-dark">Emotional Chakravuh</a></h5>
+                  </div>
             </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="happiness-unlimited.php"
+                >
+                  <img
+                    src="images/happiness-unlimited.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="happiness-unlimited"
+                     style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="happiness-unlimited.php" class="text-dark">Happiness Unlimited</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="unleashing-the-leader.php"
+                >
+                  <img
+                    src="images/leader.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="unleashing-the-leader"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="unleashing-the-leader.php" class="text-dark">Unleashing the Leader</a></h5>
+                  </div>
+            </div>
+
+            <!-- second card row -->
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="team-building.php"
+                >
+                  <img
+                    src="images/team-building.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="team-building"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="team-building.php" class="text-dark">Team Building</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="time-management.php"
+                >
+                  <img
+                    src="images/time-management.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="time-management"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="time-management.php" class="text-dark">Time Management</a></h5>
+                  </div>
+            </div>
+
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="vision-mission-goal.php"
+                >
+                  <img
+                    src="images/vision.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="vision-mission-goal"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="vision-mission-goal.php" class="text-dark">Vision Mission & Goal</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="stress-management.php"
+                >
+                  <img
+                    src="images/stress.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="stress-management"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="stress-management.php" class="text-dark">Stress Management</a></h5>
+                  </div>
+            </div>
+
+            <!-- Third row of card -->
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="ESG-Sustainability.php"
+                >
+                  <img
+                    src="images/ESG.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="ESG/Sustainability/SDG.."
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="ESG-Sustainability.php" class="text-dark">ESG/Sustainability/SDG..</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="coping-with-climate-change.php"
+                >
+                  <img
+                    src="images/coping-with-climate-change.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="coping-with-climate-change"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="coping-with-climate-change.php" class="text-dark">Coping With Climate Change</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="Campus-to-Corporate.php"
+                >
+                  <img
+                    src="images/campus.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Campus-to-Corporate"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="Campus-to-Corporate.php" class="text-dark">Campus to Corporate</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="looking-beyond.php"
+                >
+                  <img
+                    src="images/beyond.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="looking-beyond"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="looking-beyond.php" class="text-dark">Looking Beyond</a></h5>
+                  </div>
+            </div>
+
+            
+            
+            <div class="clearfix"></div>
+
+            <!-- <div align="center" class="quote">
+					<a href="enquiry.php" class=""><img src="images/requestquote.png" alt=""/></a>
+					</div>
+
+				<div class="clearfix"> </div> -->
+            <br />
+            <br />
           </div>
-
-          <br />
-
-          <div class="row">
-            <div class="col-md-6">
-              <a href="https://3km.in/post-detail/3-km-post/63066"
-                ><img
-                  src="images/news-3.jpg"
-                  alt="news"
-                  width="467"
-                  height="660"
-                  class="img-responsive img-thumbnail"
-              /></a>
-            </div>
-
-            <div class="col-md-6">
-              <a href="https://eventglint.com/e/aarambh-2024-373925"
-                ><img
-                  src="images/news-4.jpg"
-                  alt="news"
-                  width="467"
-                  height="660"
-                  class="img-responsive img-thumbnail"
-              /></a>
-            </div>
-          </div>
+          <!--  light box js --
+			<script src="js/lightbox-plus-jquery.min.js"> </script>
+			 //light box js-->
         </div>
-
-        <div class="clearfix"></div>
-      </div> -->
+      </div>
     </div>
 
     <br />
@@ -306,12 +476,12 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
               data-wow-delay="0.6s"
               data-wow-offset="0"
             >
-              <h2 class="mb-4 heading-sec" style="" align="center">
+              <!-- <h2 class="mb-4 heading-sec" style="" align="center">
                 Mission - To help 100000 people transformation to Happiness
                 success & Emotional well being using specific tools &
                 techniques.
-              </h2>
-              <p>
+              </h2> -->
+              <p class="text-center">
                 To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.E3- Explore Smart & Sustainable Solutions for Energy, Emotion & ESG
               </p>
             </div>

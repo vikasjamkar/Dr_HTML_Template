@@ -2734,6 +2734,9 @@ div#gallery {
 /* background-color: #039be5; */
 /* padding: 40px; */
 padding: 20px;
+display: grid;
+place-items: center;
+height:330px;
 }
 .project h2, .infra h2  {
     color: #fff;
@@ -2745,8 +2748,8 @@ padding: 20px;
 }
 .project p {
     color: #fff;
-    text-align: justify;
-	margin-bottom:20px;
+	font-size: 22px;
+    line-height: 1.5;
 }
 .btn-project-bg {
     background: none;
