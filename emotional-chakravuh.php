@@ -9,7 +9,7 @@
 				<div class="col-md-12">
 					<h2>Emotional Chakravyuh</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Emotional Chakravyuh</li>
 					</ul>
 				</div>

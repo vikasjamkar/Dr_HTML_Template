@@ -10,7 +10,7 @@
                 <div class="col-md-12">
                     <h1>Testimonials</h1>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">Testimonials</li>
                     </ul>
                 </div>
@@ -127,54 +127,68 @@
 
             </div>
 
-            <ul class="row py-4">
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <iframe width="100%" height="200px" src="https://www.youtube.com/embed/MjlpKcOA4bQ"
-      title="YouTube video player" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </li>
-
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7ssgv2sfCjA"
-      title="YouTube video player" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </li>
-
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/WquQY3Iu5Ys"
-      title="YouTube video player" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </li>
 
 
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <video width="100%" height="100%" controls>
-      <source src="videos/video1.mp4" type="video/mp4">
-    </video>
-  </li>
+           
 
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <video width="100%" height="100%" controls>
-      <source src="videos/video2.mp4" type="video/mp4">
-    </video>
-  </li>
 
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <video width="100%" height="100%" controls>
-      <source src="videos/video3.mp4" type="video/mp4">
-    </video>
-  </li>
 
-  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
-    <video width="100%" height="100%" controls>
-      <source src="videos/video4.mp4" type="video/mp4">
-    </video>
-  </li>
-</ul>
+        </div>
 
+        <div class="container">
+                <div class="row g-3">
+
+                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/MjlpKcOA4bQ"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe></div>
+
+
+                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7ssgv2sfCjA"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe></div>
+
+
+                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/WquQY3Iu5Ys"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe></div>
+
+
+                </div>
+
+                <div class="row g-3 pb-4">
+
+                    <div class="col-md-4">
+                        <video width="100%" height="300px" controls>
+                            <source src="videos/video1.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="col-md-4">
+                        <video width="100%" height="300px" controls>
+                            <source src="videos/video5.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    
+
+                    <div class="col-md-4">
+                        <video width="100%" height="300px" controls>
+                            <source src="videos/video2.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="col-md-4">
+                        <video width="100%" height="300px" controls>
+                            <source src="videos/video3.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="col-md-4">
+                        <video width="100%" height="300px" controls>
+                            <source src="videos/video4.mp4" type="video/mp4">
+                        </video>
+                    </div>
+
+                </div>
         </div>
 
 
@@ -188,11 +202,11 @@
 
                 if (dots.style.display === "none") {
                     dots.style.display = "inline";
-                    btnText.innerHTML = "Read more";
+                    btnText.innerphp = "Read more";
                     moreText.style.display = "none";
                 } else {
                     dots.style.display = "none";
-                    btnText.innerHTML = "Read less";
+                    btnText.innerphp = "Read less";
                     moreText.style.display = "inline";
                 }
             }
@@ -205,11 +219,11 @@
 
                 if (dots.style.display === "none") {
                     dots.style.display = "inline";
-                    btnText.innerHTML = "Read more";
+                    btnText.innerphp = "Read more";
                     moreText.style.display = "none";
                 } else {
                     dots.style.display = "none";
-                    btnText.innerHTML = "Read less";
+                    btnText.innerphp = "Read less";
                     moreText.style.display = "inline";
                 }
             }
@@ -221,11 +235,11 @@
 
                 if (dots.style.display === "none") {
                     dots.style.display = "inline";
-                    btnText.innerHTML = "Read more";
+                    btnText.innerphp = "Read more";
                     moreText.style.display = "none";
                 } else {
                     dots.style.display = "none";
-                    btnText.innerHTML = "Read less";
+                    btnText.innerphp = "Read less";
                     moreText.style.display = "inline";
                 }
             }
@@ -236,11 +250,11 @@
 
                 if (dots.style.display === "none") {
                     dots.style.display = "inline";
-                    btnText.innerHTML = "Read more";
+                    btnText.innerphp = "Read more";
                     moreText.style.display = "none";
                 } else {
                     dots.style.display = "none";
-                    btnText.innerHTML = "Read less";
+                    btnText.innerphp = "Read less";
                     moreText.style.display = "inline";
                 }
             }

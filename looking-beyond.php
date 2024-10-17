@@ -9,7 +9,7 @@
 				<div class="col-md-12">
 					<h2>Looking beyond the obvious</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Looking beyond the obvious </li>
 					</ul>
 				</div>
