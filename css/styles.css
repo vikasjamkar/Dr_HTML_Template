@@ -4426,3 +4426,14 @@ box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19) !important;
 .rounded-circle {
     border-radius: 5% !important;
 }
+
+
+.owl-carousel-container{
+    padding-top: 40px;
+    background-color:white;
+  }
+  .dropdown-name {
+   pointer-events: none; /* Disable click events on this anchor */
+   cursor: default; /* Show default cursor */
+   position: relative; /* Required for positioning */
+  }

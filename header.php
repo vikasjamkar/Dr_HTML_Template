@@ -44,7 +44,10 @@
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
-    <link rel="stylesheet" href="css/custom.css">
+     <!-- Start WOWSlider.com HEAD section -->
+     <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
 
     <link
       href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;500&display=swap"

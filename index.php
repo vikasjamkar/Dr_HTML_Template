@@ -3,7 +3,55 @@
 
     <div class="clearfix"></div>
     <!-- Start WOWSlider.com BODY section -->
-    <div class="slider-container">
+    
+     <div id="wowslider-container1">
+      <div class="ws_images">
+        <ul>
+          <li>
+            <a href="happiness-unlimited.php"><img
+              src="data1/images/slider1.jpg"
+              alt="slider1"
+              title="slider1"
+              id="wows1_0"
+            /></a>
+            
+          </li>
+          <li>
+           <a href="emotional-chakravuh.php"> <img
+              src="data1/images/slider2.jpg"
+              alt="slider2"
+              title="slider2"
+              id="wows1_1"
+            /></a>
+            
+          </li>
+          <li>
+            <img
+              src="data1/images/slider3.jpg"
+              alt="slider3"
+              title="slider3"
+              id="wows1_2"
+            />
+           
+          </li>
+        </ul>
+      </div>
+      <div class="ws_bullets">
+        <div>
+          <a href="#" title="slider1"
+            ><img src="data1/tooltips/slider1.jpg" alt="slider1" />1</a>
+          <a href="#" title="slider2"
+            ><img src="data1/tooltips/slider2.jpg" alt="slider2" />2</a>
+          <a href="#" title="slider3"
+            ><img src="data1/tooltips/slider3.jpg" alt="slider3" />3</a>
+        </div>
+      </div>
+      <div class="ws_shadow"></div>
+    </div>
+
+
+
+    <!-- <div class="slider-container">
       <div class="top-slider">
           <div class="slides">
               <div class="slide welcome-slide active">
@@ -27,7 +75,7 @@
           </button>
       </div>
       <div class="slider-nav"></div>
-    </div>
+    </div> -->
     <!-- End WOWSlider.com BODY section -->
 
     <div class="clearfix"></div>
@@ -531,8 +579,8 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     </footer>
 
     <div class="clearfix"></div>
-    <!-- <script type="text/javascript" src="engine1/wowslider.js"></script>
-    <script type="text/javascript" src="engine1/script.js"></script> -->
+    <script type="text/javascript" src="engine1/wowslider.js"></script>
+    <script type="text/javascript" src="engine1/script.js"></script>
 
     <!-- bootstrap js -->
 
@@ -542,8 +590,8 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     <script src="js/plugins.js "></script>
 
     <!-- main js -->
-    <script src="js/scripts.js "></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- <script src="js/scripts.js "></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
      <script>
          $(document).ready(function () {
              const slides = $('.slide');
