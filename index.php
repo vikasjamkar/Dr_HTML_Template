@@ -159,12 +159,12 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
             <div
               class="about-img"
               style="
-                background-image: url(images/home-bg.jpg);
+                background-image: url(images/dr.jfif);
                 background-size: cover;
                 background-position: center center;
               "
             >
-              <img src="images/home-bg.jpg" alt="" />
+              <img src="images/dr.jfif" alt="" />
             </div>
           </div>
         </div>
@@ -172,292 +172,182 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     </div>
 
     <div class="clearfix"></div>
-
-    <div id="gallery" class="jarallax w3ls-section gallery">
+   
+    <div class="container">
       <div class="col-12">
-        <div class="section-title text-center">
-          <h2>Our Expertise</h2>
-          <img src="images/line.png" alt="" />
+          <div class="section-title text-center">
+            <h2>Early Events</h2>
+            <img src="images/line.png" alt="" />
+          </div>
         </div>
-      </div>
-      <div class="gallery-w3lsrow">
-        <div class="container">
-          <div class="row">
+     
+        <div class="row">
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInLeft animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
+              <div class="w3ls-hover">
                 <a
-                  href="essentials-meetings.php"
+                  href="images/11-march-2023.jpg"
+                  data-lightbox="example-set"
+                  data-title="Emotional Chakravuh"
                 >
                   <img
-                    src="images/team-meeting.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="Essentials of Meeetings"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="essentials-meetings.php" class="text-dark">Essentials of Meeetings</a></h5>
-                  </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="emotional-chakravuh.php"
-                >
-                  <img
-                    src="images/emotional-chakravyuh.jpg"
+                    src="images/11-march-2023.jpg"
                     class="img-responsive zoom-img img-thumbnail"
                     alt="Emotional Chakravuh"
-                    style="height:280px;object-fit:cover"
+                    style="height:320px; width:340px"
                   />
-                 
+                  <div class="view-caption">
+                    <!-- <p class="m5">Emotional Chakravuh</p> -->
+                    <span class="fa fa-search"></span>
+                  </div>
                 </a>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="emotional-chakravuh.php" class="text-dark">Emotional Chakravuh</a></h5>
-                  </div>
             </div>
 
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInLeft animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
+              <div class="w3ls-hover">
                 <a
-                  href="happiness-unlimited.php"
+                  href="images/news-1.jpg"
+                  data-lightbox="example-set"
+                  data-title="Happiness Unlimited"
                 >
                   <img
-                    src="images/happiness-unlimited.jpg"
+                    src="images/news-1.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="happiness-unlimited"
-                     style="height:280px;object-fit:cover"
+                    alt="Happiness Unlimited"
+                    style="height:320px; width:340px"
                   />
-                 
+                  <div class="view-caption">
+                    <!-- <p class="m5">Happiness Unlimited</p> -->
+                    <span class="fa fa-search"></span>
+                  </div>
                 </a>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="happiness-unlimited.php" class="text-dark">Happiness Unlimited</a></h5>
-                  </div>
             </div>
 
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
+              <div class="w3ls-hover">
                 <a
-                  href="unleashing-the-leader.php"
+                  href="images/news-2.jpg"
+                  data-lightbox="example-set"
+                  data-title="Coping with Climate Change"
                 >
                   <img
-                    src="images/leader.jpg"
+                    src="images/news-2.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="unleashing-the-leader"
-                    style="height:280px;object-fit:cover"
+                    alt="Coping with Climate Change"
+                    style="height:320px; width:340px"
                   />
-                 
+                  <div class="view-caption">
+                    <!-- <p class="m5">Coping with Climate Change</p> -->
+                    <span class="fa fa-search"></span>
+                  </div>
                 </a>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="unleashing-the-leader.php" class="text-dark">Unleashing the Leader</a></h5>
-                  </div>
-            </div>
-
-            <!-- second card row -->
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="team-building.php"
-                >
-                  <img
-                    src="images/team-building.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="team-building"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="team-building.php" class="text-dark">Team Building</a></h5>
-                  </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="time-management.php"
-                >
-                  <img
-                    src="images/time-management.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="time-management"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="time-management.php" class="text-dark">Time Management</a></h5>
-                  </div>
             </div>
 
 
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
+              <div class="w3ls-hover">
                 <a
-                  href="vision-mission-goal.php"
+                  href="images/news-3.jpg"
+                  data-lightbox="example-set"
+                  data-title="Coping with Climate Change"
                 >
                   <img
-                    src="images/vision.jpg"
+                    src="images/news-3.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="vision-mission-goal"
-                    style="height:280px;object-fit:cover"
+                    alt="Coping with Climate Change"
+                    style="height:320px; width:340px"
                   />
-                 
+                  <div class="view-caption">
+                    <!-- <p class="m5">Coping with Climate Change</p> -->
+                    <span class="fa fa-search"></span>
+                  </div>
                 </a>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="vision-mission-goal.php" class="text-dark">Vision Mission & Goal</a></h5>
-                  </div>
             </div>
 
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 mt-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
+              <div class="w3ls-hover">
                 <a
-                  href="stress-management.php"
+                  href="images/news-4.jpg"
+                  data-lightbox="example-set"
+                  data-title="Coping with Climate Change"
                 >
                   <img
-                    src="images/stress.jpg"
+                    src="images/news-4.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="stress-management"
-                    style="height:280px;object-fit:cover"
+                    alt="Coping with Climate Change"
+                    style="height:320px; width:340px"
                   />
-                 
+                  <div class="view-caption">
+                    <!-- <p class="m5">Coping with Climate Change</p> -->
+                    <span class="fa fa-search"></span>
+                  </div>
                 </a>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="stress-management.php" class="text-dark">Stress Management</a></h5>
-                  </div>
             </div>
 
-            <!-- Third row of card -->
 
             <div
-              class="col-sm-3 col-xs-4 gallery-grids"
+              class="col-sm-3 col-xs-4 mt-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s"
+              data-wow-delay="1.2s"
             >
-              <div>
-                <a
-                  href="ESG-Sustainability.php"
-                >
-                  <img
-                    src="images/ESG.png"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="ESG/Sustainability/SDG.."
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
+              <div class="w3ls-hover">
+              <iframe
+              width="100%"
+              height="315"
+              src="https://www.youtube.com/embed/_8Xvkdf_5gQ"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
               </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="ESG-Sustainability.php" class="text-dark">ESG/Sustainability/SDG..</a></h5>
-                  </div>
             </div>
 
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="coping-with-climate-change.php"
-                >
-                  <img
-                    src="images/coping-with-climate-change.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="coping-with-climate-change"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="coping-with-climate-change.php" class="text-dark">Coping With Climate Change</a></h5>
-                  </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="Campus-to-Corporate.php"
-                >
-                  <img
-                    src="images/campus.png"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="Campus-to-Corporate"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="Campus-to-Corporate.php" class="text-dark">Campus to Corporate</a></h5>
-                  </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids"
-            >
-              <div>
-                <a
-                  href="looking-beyond.php"
-                >
-                  <img
-                    src="images/beyond.png"
-                    class="img-responsive zoom-img img-thumbnail"
-                    alt="looking-beyond"
-                    style="height:280px;object-fit:cover"
-                  />
-                 
-                </a>
-              </div>
-              <div class="text-center py-2">
-                    <h5 ><a href="looking-beyond.php" class="text-dark">Looking Beyond</a></h5>
-                  </div>
-            </div>
-
-            
-            
-            <div class="clearfix"></div>
-
-            <!-- <div align="center" class="quote">
-					<a href="enquiry.php" class=""><img src="images/requestquote.png" alt=""/></a>
-					</div>
-
-				<div class="clearfix"> </div> -->
-            <br />
-            <br />
+        
+           
+            <div class="clearfix"></div>  
+            <script src="js/lightbox-plus-jquery.min.js"> </script>          
           </div>
-          <!--  light box js --
-			<script src="js/lightbox-plus-jquery.min.js"> </script>
-			 //light box js-->
-        </div>
-      </div>
+    
     </div>
+
+
+
+
+
+
+  
+
+
+
+
+
+    
+ 
 
     <br />
 
@@ -617,19 +507,9 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
               Techniques, Emotional Well Being Tools, Happiness Unlimited,
               Magical Morning Routine, Trainer, Pune, Maharashtra, India
             </p>
-            <div class="clearfix"></div>
-
-            <!-- <div align="center" class="quote">
-					<a href="enquiry.php" class=""><img src="images/requestquote.png" alt=""/></a>
-					</div>
-
-				<div class="clearfix"> </div> -->
-            <br />
-            <br />
+            <div class="clearfix"></div>            
           </div>
-          <!--  light box js --
-			<script src="js/lightbox-plus-jquery.min.js"> </script>
-			 //light box js-->
+    
         </div>
       </div>
     </div>

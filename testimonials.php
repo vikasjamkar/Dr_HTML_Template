@@ -126,6 +126,55 @@
 
 
             </div>
+
+            <ul class="row py-4">
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <iframe width="100%" height="200px" src="https://www.youtube.com/embed/MjlpKcOA4bQ"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </li>
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7ssgv2sfCjA"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </li>
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/WquQY3Iu5Ys"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </li>
+
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <video width="100%" height="100%" controls>
+      <source src="videos/video1.mp4" type="video/mp4">
+    </video>
+  </li>
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <video width="100%" height="100%" controls>
+      <source src="videos/video2.mp4" type="video/mp4">
+    </video>
+  </li>
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <video width="100%" height="100%" controls>
+      <source src="videos/video3.mp4" type="video/mp4">
+    </video>
+  </li>
+
+  <li class="col-12 col-sm-6 col-md-4" data-responsive="images/ronch-3.jpg" data-src="images/ronch-3.jpg" data-sub-html="<h4>Ronch</h4>">
+    <video width="100%" height="100%" controls>
+      <source src="videos/video4.mp4" type="video/mp4">
+    </video>
+  </li>
+</ul>
+
         </div>
 
 

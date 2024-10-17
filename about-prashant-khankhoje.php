@@ -71,7 +71,7 @@
 
 
 <div class="col-md-4">
-<img class="img-thumbnail img-responsive man1 rounded-circle" alt="m" src="images/home-bg.jpg">
+<img class="img-thumbnail img-responsive man1 rounded-circle" alt="m" src="images/dr.jfif">
 </div>
 
 <div class="clearfix"> </div>
