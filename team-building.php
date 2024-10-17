@@ -8,7 +8,7 @@
 				<div class="col-md-12">
 					<h1>Team Building</h1>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Team Building</li>
 					</ul>
 				</div>

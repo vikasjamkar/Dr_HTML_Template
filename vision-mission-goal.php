@@ -9,7 +9,7 @@
 				<div class="col-md-12">
 					<h2>Vision,Mission & Goal Setting</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Vision,Mission & Goal Setting</li>
 					</ul>
 				</div>

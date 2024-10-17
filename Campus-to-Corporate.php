@@ -9,7 +9,7 @@
 				<div class="col-md-12">
 					<h2>Campus to Corporate – Youth development</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Campus to Corporate – Youth development</li>
 					</ul>
 				</div>

@@ -172,11 +172,91 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     </div>
 
     <div class="clearfix"></div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title text-center title-gap">
+            <h2>LOOKING BEYOND THE OBVIOUS</h2>
+            <img src="images/line.png" alt="" />
+          </div>
+          <p class="text-justify">With businesses facing VUCA (Volatility, Uncertainty, Complexity, Ambiguity), it is imperative for organizations to find innovative solutions to steer through the turbulence and learn ways to manage change & ease of doing business. As the businesses recovered from Corona Shocks & adopted a new way of Physital (Physical plus Digital) working, it is time to explore decisive strategies that will lead businesses towards profitability & sustainability. Regulations, Policies and Business Models are changing rapidly, and business leaders need to transform faster than all these. The world has changed dramatically, now life is more complex, more stressful, more demanding. The Coach & Mentor can help framing winning strategies & help Transform Business leaders, for organizations to excel & constantly improve bottom line and take the business to next orbit.</p>
+        </div>
+      </div>
+
+      <div class="row py-4">
+        <div class="col-12 col-lg-6 col-md-6">
+          <strong>In this rapidly changing environment,</strong>
+          <ul style="list-style-type:disc;">
+            <li>Businesses are struggling with Energy Conservation, Emotions Conservation or Environment conservation/ESG Compliant. </li>
+            <li>Business leaders/top level executives lose track of their dreams, values, strengths, and aspirations.</li>
+            <li>Business leaders must cope with high levels of uncertainty, volatility, and rapid change.</li>
+            <li>Leaders have many challenges like maintaining professional & personal relationships, conflict resolution, communication, time management, Procrastination, Team Building ---and hence burn out.</li>
+            <li>Leaders have a strong desire to take their life to the next level & learn techniques to live life by choice.</li>
+            <li>Business leaders/top level executives get stressed out due to many challenges to maintain work life balance.</li>
+            <li>Assocham reports that 42.5 percent of Indian corporate employees suffer from depression or generalised anxiety disorder.</li>
+          </ul>
+
+        </div>
+        <div class="col-12 col-lg-6 col-md-6">
+         <strong>As business leader do you ever feel like</strong>
+          <ul style="list-style-type:disc;">
+            <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
+            <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
+            <li>Your inbox is overflowing with week/month-old messages which you have not replied to, and new ones are piling up daily.</li>
+            <li>Your days are spent in firefighting, or you seem to avoid your team and vendors.</li>
+            <li>Do you think you are the operator of your business – not the owner.  </li>
+            <li>It's time to make a change but don’t know where & how to start.</li>
+            <li>Do you think your team is not enthusiastic like you? </li>
+            <li>Frustrated & worried that only 24 hours in the day are not sufficient?</li>
+          </ul>
+        </div>
+      </div>
+
+
+
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title text-center title-gap">
+            <h2>Then you need a Coach/Mentor</h2>
+            <img src="images/line.png" alt="" />
+          </div>
+        </div>
+      </div>
+
+    
+       <div class="row">
+        <div class="col-12">
+          <strong>Glad to offer my services to be your preferred coach/mentor</strong>
+          <ul style="list-style-type:disc;">
+            <li>Imagine having support of someone who champions your success as much as you do & who is not your competitor.</li>
+            <li>Who encourage you to tap into your own resources to find solutions you didn’t know you had?</li>
+            <li>Who will challenge you to expand your horizons to see things from different perspectives & viewpoints?</li>
+            <li>A coach is someone who is neutral & non-judgmental.</li>
+            <li>A Coach can help to find out solution for Personal challenges like Health, Self-Growth, Family, Relationship, Stress, Trust issues. </li>
+            <li>A Coach can help to find out solutions for Professional challenges like Planning, Team building, Time Management, Decision making, Communication.</li>
+            <li>Executive coaching is an efficient, high impact process that helps high performing people in leadership roles improve results in ways that are sustained over time. </li>
+            <li>Coaching does not require invasive processes, large external teams and lengthy reports, analysis to get results.</li>
+            <li>Coaching brings very effective results to individuals as well as organisation by empowering individuals personally & professionally to reach new heights of success, happiness, and fulfilment.</li>
+          </ul>
+          
+        </div>
+        <strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM</strong>
+      </div>
+    
+    </div>
+
+
+     
+
+
+
+
    
     <div class="container">
       <div class="col-12">
-          <div class="section-title text-center">
-            <h2>Early Events</h2>
+          <div class="section-title text-center title-gap mt-3">
+            <h2>Past Events</h2>
             <img src="images/line.png" alt="" />
           </div>
         </div>
@@ -191,13 +271,13 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                 <a
                   href="images/11-march-2023.jpg"
                   data-lightbox="example-set"
-                  data-title="Emotional Chakravuh"
+                  
                 >
                   <img
                     src="images/11-march-2023.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="Emotional Chakravuh"
-                    style="height:320px; width:340px"
+                   
+                    style="height:280px; width:340px;object-fit:cover"
                   />
                   <div class="view-caption">
                     <!-- <p class="m5">Emotional Chakravuh</p> -->
@@ -216,13 +296,13 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                 <a
                   href="images/news-1.jpg"
                   data-lightbox="example-set"
-                  data-title="Happiness Unlimited"
+                
                 >
                   <img
                     src="images/news-1.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="Happiness Unlimited"
-                    style="height:320px; width:340px"
+                    
+                    style="height:280px; width:340px;object-fit:cover"
                   />
                   <div class="view-caption">
                     <!-- <p class="m5">Happiness Unlimited</p> -->
@@ -241,13 +321,13 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                 <a
                   href="images/news-2.jpg"
                   data-lightbox="example-set"
-                  data-title="Coping with Climate Change"
+                  
                 >
                   <img
                     src="images/news-2.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="Coping with Climate Change"
-                    style="height:320px; width:340px"
+                 
+                    style="height:280px; width:340px;object-fit:cover"
                   />
                   <div class="view-caption">
                     <!-- <p class="m5">Coping with Climate Change</p> -->
@@ -267,13 +347,13 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                 <a
                   href="images/news-3.jpg"
                   data-lightbox="example-set"
-                  data-title="Coping with Climate Change"
+                  
                 >
                   <img
                     src="images/news-3.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="Coping with Climate Change"
-                    style="height:320px; width:340px"
+                   
+                    style="height:280px; width:340px;object-fit:cover"
                   />
                   <div class="view-caption">
                     <!-- <p class="m5">Coping with Climate Change</p> -->
@@ -292,13 +372,13 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                 <a
                   href="images/news-4.jpg"
                   data-lightbox="example-set"
-                  data-title="Coping with Climate Change"
+                  
                 >
                   <img
                     src="images/news-4.jpg"
                     class="img-responsive zoom-img img-thumbnail"
-                    alt="Coping with Climate Change"
-                    style="height:320px; width:340px"
+                    
+                    style="height:280px; width:340px;object-fit:cover"
                   />
                   <div class="view-caption">
                     <!-- <p class="m5">Coping with Climate Change</p> -->
@@ -317,7 +397,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
               <div class="w3ls-hover">
               <iframe
               width="100%"
-              height="315"
+              height="280"
               src="https://www.youtube.com/embed/_8Xvkdf_5gQ"
               title="YouTube video player"
               frameborder="0"
@@ -330,24 +410,10 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
         
            
             <div class="clearfix"></div>  
-            <script src="js/lightbox-plus-jquery.min.js"> </script>          
+            <!-- <script src="js/lightbox-plus-jquery.min.js"> </script>           -->
           </div>
     
     </div>
-
-
-
-
-
-
-  
-
-
-
-
-
-    
- 
 
     <br />
 
@@ -387,13 +453,14 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     <div class="clearfix"></div>
 
     <!-- gallery -->
-    <div id="gallery" class="jarallax w3ls-section gallery">
+    <!-- <div id="gallery" class="jarallax w3ls-section gallery">
       <div class="col-12">
         <div class="section-title text-center">
           <h2>Special Training Modules</h2>
           <img src="images/line.png" alt="" />
         </div>
       </div>
+      
       <div class="gallery-w3lsrow">
         <div class="container">
           <div class="row">
@@ -512,8 +579,295 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
     
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- //gallery -->
+        <!-- our expertise section start -->
+    <div id="gallery" class="jarallax w3ls-section gallery">
+      <div class="col-12">
+        <div class="section-title text-center title-gap">
+          <h2>Special Transformation & Learning Modules </h2>
+          <img src="images/line.png" alt="" />
+        </div>
+      </div>
+      <div class="gallery-w3lsrow">
+        <div class="container">
+          <div class="row">
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="essentials-meetings.php"
+                >
+                  <img
+                    src="images/team-meeting.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Essentials of Meeetings"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="essentials-meetings.php" class="text-dark">Essentials of Meeetings</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="emotional-chakravuh.php"
+                >
+                  <img
+                    src="images/emotional-chakravyuh.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Emotional Chakravuh"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="emotional-chakravuh.php" class="text-dark">Emotional Chakravuh</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="happiness-unlimited.php"
+                >
+                  <img
+                    src="images/happiness-unlimited.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="happiness-unlimited"
+                     style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="happiness-unlimited.php" class="text-dark">Happiness Unlimited</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="unleashing-the-leader.php"
+                >
+                  <img
+                    src="images/leader.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="unleashing-the-leader"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="unleashing-the-leader.php" class="text-dark">Unleashing the Leader</a></h5>
+                  </div>
+            </div>
+
+            <!-- second card row -->
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="team-building.php"
+                >
+                  <img
+                    src="images/team-building.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="team-building"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="team-building.php" class="text-dark">Team Building</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="time-management.php"
+                >
+                  <img
+                    src="images/time-management.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="time-management"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="time-management.php" class="text-dark">Time Management</a></h5>
+                  </div>
+            </div>
+
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="vision-mission-goal.php"
+                >
+                  <img
+                    src="images/vision.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="vision-mission-goal"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="vision-mission-goal.php" class="text-dark">Vision Mission & Goal</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="stress-management.php"
+                >
+                  <img
+                    src="images/stress.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="stress-management"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="stress-management.php" class="text-dark">Stress Management</a></h5>
+                  </div>
+            </div>
+
+            <!-- Third row of card -->
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="ESG-Sustainability.php"
+                >
+                  <img
+                    src="images/ESG.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="ESG/Sustainability/SDG.."
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="ESG-Sustainability.php" class="text-dark">ESG/Sustainability/SDG..</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="coping-with-climate-change.php"
+                >
+                  <img
+                    src="images/coping-with-climate-change.jpg"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="coping-with-climate-change"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="coping-with-climate-change.php" class="text-dark">Coping With Climate Change</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="Campus-to-Corporate.php"
+                >
+                  <img
+                    src="images/campus.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="Campus-to-Corporate"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="Campus-to-Corporate.php" class="text-dark">Campus to Corporate</a></h5>
+                  </div>
+            </div>
+
+            <div
+              class="col-sm-3 col-xs-4 gallery-grids"
+            >
+              <div>
+                <a
+                  href="looking-beyond.php"
+                >
+                  <img
+                    src="images/beyond.png"
+                    class="img-responsive zoom-img img-thumbnail"
+                    alt="looking-beyond"
+                    style="height:280px;object-fit:cover"
+                  />
+                 
+                </a>
+              </div>
+              <div class="text-center py-2">
+                    <h5 ><a href="looking-beyond.php" class="text-dark">Looking Beyond</a></h5>
+                  </div>
+            </div>
+
+            
+            
+            <div class="clearfix"></div>
+
+            <!-- <div align="center" class="quote">
+					<a href="enquiry.php" class=""><img src="images/requestquote.png" alt=""/></a>
+					</div>
+
+				<div class="clearfix"> </div> -->
+            <br />
+            <br />
+          </div>
+          <!--  light box js --
+			<script src="js/lightbox-plus-jquery.min.js"> </script>
+			 //light box js-->
+        </div>
+      </div>
+    </div>
+    <!-- our expertise section end -->
 
     <div class="clearfix"></div>
 

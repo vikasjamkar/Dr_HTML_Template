@@ -10,7 +10,7 @@
 				<div class="col-md-12">
 					<h2>Time management</h2>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li class="active">Time management</li>
 					</ul>
 				</div>
