@@ -50,7 +50,9 @@
     </div>
 
 
-
+    <a class="fixedbutton" href="special offer.pdf"
+                    ><img src="images/download-pdf.png" alt="PDF Download"
+                  /></a>
     <!-- <div class="slider-container">
       <div class="top-slider">
           <div class="slides">
@@ -86,7 +88,7 @@
           <img src="images/welcome-page.jpg" alt="PRASHANT KHANKHOJE" />
         </div>
 
-        <!-- <h2 class="about-heading">WELCOME TO PRASHANT KHANKHOJE</h2> -->
+        <h2 class="about-heading">WELCOME TO PRASHANT KHANKHOJE</h2>
 
         <div class="clearfix"></div>
         <div class="row">
@@ -148,9 +150,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
                     <a href="about-prashant-khankhoje.php">Read More ...</a>
                   </div>
 
-                  <a href="special offer.pdf"
-                    ><img src="images/download-pdf.png" alt="PDF Download"
-                  /></a>
+                 
                 </div>
               </div>
             </div>
