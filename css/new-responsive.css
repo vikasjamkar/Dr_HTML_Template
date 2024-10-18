@@ -1,9 +1,8 @@
 @media (max-width:767px){
-    .mobile-navbar{
-        display:flex !important;
-        background-color: rgb(0, 255, 13) !important;
+    .project {
+        padding: 20px;
+        display: grid;
+        place-items: center;
+        height: 180px !important;
     }
-    .header-bottom{
-        display: none !important;
-     }
 }

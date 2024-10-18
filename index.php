@@ -1,6 +1,7 @@
 
 <?php include "header.php" ?>
 
+
     <div class="clearfix"></div>
     <!-- Start WOWSlider.com BODY section -->
     
@@ -72,37 +73,37 @@
       </div>
 
       <div class="container">
-  <div class="row py-4">
-    <!-- Left Column -->
-    <div class="col-12 col-md-6 col-lg-6">
-      <strong>In this rapidly changing environment,</strong>
-      <ul style="list-style-type:disc;">
-        <li>Businesses are struggling with Energy Conservation, Emotions Conservation or Environment conservation/ESG Compliant.</li>
-        <li>Business leaders/top level executives lose track of their dreams, values, strengths, and aspirations.</li>
-        <li>Business leaders must cope with high levels of uncertainty, volatility, and rapid change.</li>
-        <li>Leaders have many challenges like maintaining professional & personal relationships, conflict resolution, communication, time management, Procrastination, Team Building ---and hence burn out.</li>
-        <li>Leaders have a strong desire to take their life to the next level & learn techniques to live life by choice.</li>
-        <li>Business leaders/top level executives get stressed out due to many challenges to maintain work life balance.</li>
-        <li>Assocham reports that 42.5 percent of Indian corporate employees suffer from depression or generalised anxiety disorder.</li>
-      </ul>
-    </div>
-    
-    <!-- Right Column -->
-    <div class="col-12 col-md-6 col-lg-6">
-      <strong>As business leader do you ever feel like</strong>
-      <ul style="list-style-type:disc;">
-        <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
-        <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
-        <li>Your inbox is overflowing with week/month-old messages which you have not replied to, and new ones are piling up daily.</li>
-        <li>Your days are spent in firefighting, or you seem to avoid your team and vendors.</li>
-        <li>Do you think you are the operator of your business – not the owner.</li>
-        <li>It's time to make a change but don’t know where & how to start.</li>
-        <li>Do you think your team is not enthusiastic like you?</li>
-        <li>Frustrated & worried that only 24 hours in the day are not sufficient?</li>
-      </ul>
-    </div>
-  </div>
-</div>
+        <div class="row py-4">
+          <!-- Left Column -->
+          <div class="col-12 col-lg-6">
+            <strong>In this rapidly changing environment,</strong>
+            <ul style="list-style-type:disc;">
+              <li>Businesses are struggling with Energy Conservation, Emotions Conservation or Environment conservation/ESG Compliant.</li>
+              <li>Business leaders/top level executives lose track of their dreams, values, strengths, and aspirations.</li>
+              <li>Business leaders must cope with high levels of uncertainty, volatility, and rapid change.</li>
+              <li>Leaders have many challenges like maintaining professional & personal relationships, conflict resolution, communication, time management, Procrastination, Team Building ---and hence burn out.</li>
+              <li>Leaders have a strong desire to take their life to the next level & learn techniques to live life by choice.</li>
+              <li>Business leaders/top level executives get stressed out due to many challenges to maintain work life balance.</li>
+              <li>Assocham reports that 42.5 percent of Indian corporate employees suffer from depression or generalised anxiety disorder.</li>
+            </ul>
+          </div>
+          
+          <!-- Right Column -->
+          <div class="col-12 col-lg-6">
+            <strong>As business leader do you ever feel like</strong>
+            <ul style="list-style-type:disc;">
+              <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
+              <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
+              <li>Your inbox is overflowing with week/month-old messages which you have not replied to, and new ones are piling up daily.</li>
+              <li>Your days are spent in firefighting, or you seem to avoid your team and vendors.</li>
+              <li>Do you think you are the operator of your business – not the owner.</li>
+              <li>It's time to make a change but don’t know where & how to start.</li>
+              <li>Do you think your team is not enthusiastic like you?</li>
+              <li>Frustrated & worried that only 24 hours in the day are not sufficient?</li>
+            </ul>
+          </div>
+        </div>
+      </div>
 
 
 
@@ -133,177 +134,103 @@
           </ul>
           
         </div>
-        <div class="d-flex justify-content-start align-items-center"><strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM </strong>
+        <div class="d-flex justify-content-start align-items-center flex-wrap"><strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM </strong>
         <div class="readmore ms-4">
                     <a href="about-prashant-khankhoje.php">Read More ...</a>
                   </div></div>
-      </div>
+       </div>
     
     </div>
 
-    <div class="container">
-      <div class="col-12">
+      <div class="container">
+       <div class="col-12">
           <div class="section-title text-center title-gap mt-3">
             <h2>Past Events</h2>
             <img src="images/line.png" alt="" />
-          </div>
+          </div>  
         </div>
      
         <div class="row">
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInLeft animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInLeft animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
               <div class="w3ls-hover">
-                <a
-                  href="images/11-march-2023.jpg"
-                  data-lightbox="example-set"
-                  
-                >
-                  <img
-                    src="images/11-march-2023.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                   
-                    style="height:280px; width:340px;object-fit:cover"
-                  />
-                  <div class="view-caption">
-                    <!-- <p class="m5">Emotional Chakravuh</p> -->
-                    <span class="fa fa-search"></span>
-                  </div>
-                </a>
+                  <a href="images/11-march-2023.jpg" data-lightbox="example-set">
+                      <img src="images/11-march-2023.jpg" class="img-responsive zoom-img img-thumbnail"
+                          style="height:280px; width:100%; object-fit:cover" />
+                      <div class="view-caption">
+                          <span class="fa fa-search"></span>
+                      </div>
+                  </a>
               </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInLeft animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
-              <div class="w3ls-hover">
-                <a
-                  href="images/news-1.jpg"
-                  data-lightbox="example-set"
-                
-                >
-                  <img
-                    src="images/news-1.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    
-                    style="height:280px; width:340px;object-fit:cover"
-                  />
-                  <div class="view-caption">
-                    <!-- <p class="m5">Happiness Unlimited</p> -->
-                    <span class="fa fa-search"></span>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInRight animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
-              <div class="w3ls-hover">
-                <a
-                  href="images/news-2.jpg"
-                  data-lightbox="example-set"
-                  
-                >
-                  <img
-                    src="images/news-2.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                 
-                    style="height:280px; width:340px;object-fit:cover"
-                  />
-                  <div class="view-caption">
-                    <!-- <p class="m5">Coping with Climate Change</p> -->
-                    <span class="fa fa-search"></span>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-
-            <div
-              class="col-sm-3 col-xs-4 gallery-grids wow animate fadeInRight animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
-              <div class="w3ls-hover">
-                <a
-                  href="images/news-3.jpg"
-                  data-lightbox="example-set"
-                  
-                >
-                  <img
-                    src="images/news-3.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                   
-                    style="height:280px; width:340px;object-fit:cover"
-                  />
-                  <div class="view-caption">
-                    <!-- <p class="m5">Coping with Climate Change</p> -->
-                    <span class="fa fa-search"></span>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div
-              class="col-sm-3 col-xs-4 mt-4 gallery-grids wow animate fadeInRight animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
-              <div class="w3ls-hover">
-                <a
-                  href="images/news-4.jpg"
-                  data-lightbox="example-set"
-                  
-                >
-                  <img
-                    src="images/news-4.jpg"
-                    class="img-responsive zoom-img img-thumbnail"
-                    
-                    style="height:280px; width:340px;object-fit:cover"
-                  />
-                  <div class="view-caption">
-                    <!-- <p class="m5">Coping with Climate Change</p> -->
-                    <span class="fa fa-search"></span>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-
-            <div
-              class="col-sm-3 col-xs-4 mt-4 gallery-grids wow animate fadeInRight animated"
-              data-wow-duration="1s"
-              data-wow-delay="1.2s"
-            >
-              <div class="w3ls-hover">
-              <iframe
-              width="100%"
-              height="280"
-              src="https://www.youtube.com/embed/_8Xvkdf_5gQ"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-              </div>
-            </div>
-
-        
-           
-            <div class="clearfix"></div>  
-            <!-- <script src="js/lightbox-plus-jquery.min.js"> </script>           -->
           </div>
-    
-    </div>
 
-    <br />
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInLeft animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
+              <div class="w3ls-hover">
+                  <a href="images/news-1.jpg" data-lightbox="example-set">
+                      <img src="images/news-1.jpg" class="img-responsive zoom-img img-thumbnail"
+                          style="height:280px; width:100%; object-fit:cover" />
+                      <div class="view-caption">
+                          <span class="fa fa-search"></span>
+                      </div>
+                  </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
+              <div class="w3ls-hover">
+                  <a href="images/news-2.jpg" data-lightbox="example-set">
+                      <img src="images/news-2.jpg" class="img-responsive zoom-img img-thumbnail"
+                          style="height:280px; width:100%; object-fit:cover" />
+                      <div class="view-caption">
+                          <span class="fa fa-search"></span>
+                      </div>
+                  </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
+              <div class="w3ls-hover">
+                  <a href="images/news-3.jpg" data-lightbox="example-set">
+                      <img src="images/news-3.jpg" class="img-responsive zoom-img img-thumbnail"
+                          style="height:280px; width:100%; object-fit:cover" />
+                      <div class="view-caption">
+                          <span class="fa fa-search"></span>
+                      </div>
+                  </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
+              <div class="w3ls-hover">
+                  <a href="images/news-4.jpg" data-lightbox="example-set">
+                      <img src="images/news-4.jpg" class="img-responsive zoom-img img-thumbnail"
+                          style="height:280px; width:100%; object-fit:cover" />
+                      <div class="view-caption">
+                          <span class="fa fa-search"></span>
+                      </div>
+                  </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 gallery-grids wow animate fadeInRight animated"
+              data-wow-duration="1s" data-wow-delay="1.2s">
+              <div class="w3ls-hover">
+                  <iframe width="100%" height="280" src="https://www.youtube.com/embed/_8Xvkdf_5gQ" title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allowfullscreen></iframe>
+              </div>
+          </div>
+
+         <div class="clearfix"></div>
+        </div>
+      </div>
+
+     <br />
 
     <!-- START PROJECT DESIGN -->
     <section id="project_section" class="section-padding" style="">

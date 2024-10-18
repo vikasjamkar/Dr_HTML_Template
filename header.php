@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Prashant Khankhoje</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -12,10 +13,11 @@
       content="HuBGMQM_5Rr39v_laeikm16qATStPzARFJLyGXgYs2U"
     />
 <!-- 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css"> -->
+     -->
     <!--google-site-verification-->
     <!-- GL puneseolocal, GSC midpune2, GA midpune2 -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 
     <!-- Place favicon.ico in the root directory -->
     <!-- all css here -->
@@ -42,13 +44,11 @@
     <!-- responsive css -->
     <link rel="stylesheet" href="css/responsive.css" />
     <!-- modernizr css -->
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-
     <link rel="stylesheet" href="css/new-responsive.css" />
 
      <!-- Start WOWSlider.com HEAD section -->
      <link rel="stylesheet" type="text/css" href="engine1/style.css" />
-      <script type="text/javascript" src="engine1/jquery.js"></script>
+     
     <!-- End WOWSlider.com HEAD section -->
 
     <link
@@ -78,119 +78,111 @@
   </head>
 
   <body>
-    <!-- header-area start -->
-    <header class="header-area">
-      <div class="header-bottom">
-        <div class="container">
-          <div class="row align-items-center">
-            <!-- Logo Area -->
-            <div class="col-lg-4">
-              <div class="logo">
-                <a href="index.php">
-                  <img src="images/prashant-khankhoje-logo.jpg" class="img1"
-                    alt="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune"
-                    title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" />
-                </a>
-              </div>
+  <header class="header-area">
+    <div class="header-bottom">
+      <div class="container">
+        <div class="row align-items-center g-3">
+          <!-- Logo Area -->
+          <div class="col-lg-4 col-sm-7 col-10">
+            <div class="logo">
+              <a href="index.php">
+                <h5 class="text-white">Prashant Khankhoje</h5>
+                <!-- <img src="images/prashant-khankhoje-logo.jpg" class="img1"
+                  alt="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune"
+                  title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" /> -->
+              </a>
             </div>
-            <!-- Navbar for Desktop -->
-            <div class="col-lg-8 d-none d-lg-block">
-              <ul class="mainmenu d-flex justify-content-end">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about-prashant-khankhoje.php">About Us</a></li>
-                <li>
-                  <a href="#" class="dropdown-name">Our Expertise</a>
-                  <ul class="dropdown row p-3">
-                    <li class="col-6"><a href="essentials-meetings.php">Essentials of Meeting</a></li>
-                    <li class="col-6"><a href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
-                    <li class="col-6"><a href="happiness-unlimited.php">Happiness Unlimited</a></li>
-                    <li class="col-6"><a href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
-                    <li class="col-6"><a href="team-building.php">Team Building</a></li>
-                    <li class="col-6"><a href="time-management.php">Time management</a></li>
-                    <li class="col-6"><a href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
-                    <li class="col-6"><a href="stress-management.php">Stress Management</a></li>
-                    <li class="col-6"><a href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
-                    <li class="col-6"><a href="coping-with-climate-change.php">Coping with Climate Change</a></li>
-                    <li class="col-6"><a href="Campus-to-Corporate.php">Campus to Corporate</a></li>
-                    <li class="col-6"><a href="looking-beyond.php">Looking beyond ...</a></li>
-                  </ul>
-                </li>
-                <li><a href="testimonials.php">Testimonials</a></li>
-                <li><a href="#" class="dropdown-name">Gallery</a>
-                  <ul class="dropdown drop-left">
-                    <li><a href="photo-gallery.php">Photo</a></li>
-                    <li><a href="media-gallery.php">Media</a></li>
-                  </ul>
-                </li>
-                <li><a href="contact-prashant-khankhoje.php">Contact us</a></li>
-                <li><a href="enquiry.php">Enquiry</a></li>
-              </ul>
-            </div>
+          </div>
+
+          <!-- Navbar for Desktop -->
+          <div class="col-lg-8 d-none d-lg-block">
+            <ul class="mainmenu d-flex justify-content-end">
+              <li><a href="index.php">Home</a></li>
+              <li><a href="about-prashant-khankhoje.php">About Us</a></li>
+              <li>
+                <a href="#" class="dropdown-name">Our Expertise</a>
+                <ul class="dropdown row p-3">
+                  <li class="col-6"><a href="essentials-meetings.php">Essentials of Meeting</a></li>
+                  <li class="col-6"><a href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
+                  <li class="col-6"><a href="happiness-unlimited.php">Happiness Unlimited</a></li>
+                  <li class="col-6"><a href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
+                  <li class="col-6"><a href="team-building.php">Team Building</a></li>
+                  <li class="col-6"><a href="time-management.php">Time management</a></li>
+                  <li class="col-6"><a href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
+                  <li class="col-6"><a href="stress-management.php">Stress Management</a></li>
+                  <li class="col-6"><a href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
+                  <li class="col-6"><a href="coping-with-climate-change.php">Coping with Climate Change</a></li>
+                  <li class="col-6"><a href="Campus-to-Corporate.php">Campus to Corporate</a></li>
+                  <li class="col-6"><a href="looking-beyond.php">Looking beyond ...</a></li>
+                </ul>
+              </li>
+              <li><a href="testimonials.php">Testimonials</a></li>
+              <li><a href="#" class="dropdown-name">Gallery</a>
+                <ul class="dropdown drop-left">
+                  <li><a href="photo-gallery.php">Photo</a></li>
+                  <li><a href="media-gallery.php">Media</a></li>
+                </ul>
+              </li>
+              <li><a href="contact-prashant-khankhoje.php">Contact us</a></li>
+              <li><a href="enquiry.php">Enquiry</a></li>
+            </ul>
+          </div>
+
+          <!-- Navbar for Mobile -->
+          <div class="col-2 col-sm-3 d-lg-none text-end">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNavbar"
+              aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="bi bi-justify text-white"></span>
+            </button>
+          </div>
+
+          <!-- Collapsible Navbar for Mobile -->
+          <div class="collapse mobile-nav col-12 d-lg-none" id="mobileNavbar">
+            <ul class="navbar-nav d-flex flex-column text-center">
+              <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+              <li class="nav-item"><a class="nav-link" href="about-prashant-khankhoje.php">About Us</a></li>
+              <li class="nav-item">
+                <a class="nav-link dropdown-toggle" href="#" id="expertiseDropdown" role="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">Our Expertise</a>
+                <ul class="dropdown-menu" aria-labelledby="expertiseDropdown">
+                  <li><a class="dropdown-item" href="essentials-meetings.php">Essentials of Meeting</a></li>
+                  <li><a class="dropdown-item" href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
+                  <li><a class="dropdown-item" href="happiness-unlimited.php">Happiness Unlimited</a></li>
+                  <li><a class="dropdown-item" href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
+                  <li><a class="dropdown-item" href="team-building.php">Team Building</a></li>
+                  <li><a class="dropdown-item" href="time-management.php">Time management</a></li>
+                  <li><a class="dropdown-item" href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
+                  <li><a class="dropdown-item" href="stress-management.php">Stress Management</a></li>
+                  <li><a class="dropdown-item" href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
+                  <li><a class="dropdown-item" href="coping-with-climate-change.php">Coping with Climate Change</a></li>
+                  <li><a class="dropdown-item" href="Campus-to-Corporate.php">Campus to Corporate</a></li>
+                  <li><a class="dropdown-item" href="looking-beyond.php">Looking beyond ...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="testimonials.php">Testimonials</a></li>
+              <li class="nav-item">
+                <a class="nav-link dropdown-toggle" href="#" id="galleryDropdown" role="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">Gallery</a>
+                <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
+                  <li><a class="dropdown-item" href="photo-gallery.php">Photo</a></li>
+                  <li><a class="dropdown-item" href="media-gallery.php">Media</a></li>
+                </ul>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="contact-prashant-khankhoje.php">Contact us</a></li>
+              <li class="nav-item"><a class="nav-link" href="enquiry.php">Enquiry</a></li>
+            </ul>
           </div>
         </div>
       </div>
-    </header>
-
-    <div class="mobile-navbar">
-      <div class="logo">
-        <a href="index.php">
-                    <img src="images/prashant-khankhoje-logo.jpg" class="img1"
-                      alt="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune"
-                      title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" />
-                  </a>
-      </div>
-      <div class="toggle-btn">
-         <!-- Navbar for Mobile -->
-         <div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNavbar"
-            aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon" style="background-color:red"></span>
-          </button>
-        </div>
-      </div>
     </div>
+  </header>
 
-    <!-- Collapsible Navbar for Mobile -->
-    <div class="collapse mobile-nav col-12 d-lg-none" id="mobileNavbar">
-          <ul class="navbar-nav d-flex flex-column text-center">
-            <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="about-prashant-khankhoje.php">About Us</a></li>
-            <li class="nav-item">
-              <a class="nav-link dropdown-toggle" href="#" id="expertiseDropdown" role="button"
-                data-bs-toggle="dropdown" aria-expanded="false">Our Expertise</a>
-              <ul class="dropdown-menu" aria-labelledby="expertiseDropdown">
-                <li><a class="dropdown-item" href="essentials-meetings.php">Essentials of Meeting</a></li>
-                <li><a class="dropdown-item" href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
-                <li><a class="dropdown-item" href="happiness-unlimited.php">Happiness Unlimited</a></li>
-                <li><a class="dropdown-item" href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
-                <li><a class="dropdown-item" href="team-building.php">Team Building</a></li>
-                <li><a class="dropdown-item" href="time-management.php">Time management</a></li>
-                <li><a class="dropdown-item" href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
-                <li><a class="dropdown-item" href="stress-management.php">Stress Management</a></li>
-                <li><a class="dropdown-item" href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
-                <li><a class="dropdown-item" href="coping-with-climate-change.php">Coping with Climate Change</a></li>
-                <li><a class="dropdown-item" href="Campus-to-Corporate.php">Campus to Corporate</a></li>
-                <li><a class="dropdown-item" href="looking-beyond.php">Looking beyond ...</a></li>
-              </ul>
-            </li>
-            <li class="nav-item"><a class="nav-link" href="testimonials.php">Testimonials</a></li>
-            <li class="nav-item">
-              <a class="nav-link dropdown-toggle" href="#" id="galleryDropdown" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">Gallery</a>
-              <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
-                <li><a class="dropdown-item" href="photo-gallery.php">Photo</a></li>
-                <li><a class="dropdown-item" href="media-gallery.php">Media</a></li>
-              </ul>
-            </li>
-            <li class="nav-item"><a class="nav-link" href="contact-prashant-khankhoje.php">Contact us</a></li>
-            <li class="nav-item"><a class="nav-link" href="enquiry.php">Enquiry</a></li>
-          </ul>
-        </div>
 
-<!-- Bootstrap JS (for collapse functionality) -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- header-area end -->
+
+
+
+
     <script>
       document.addEventListener('DOMContentLoaded', function() {
           const menuItems = document.querySelectorAll('.mainmenu li');
@@ -243,5 +235,8 @@
       });
    </script>
 
+<script src="js/vendor/modernizr-2.8.3.min.js"></script>
+<script type="text/javascript" src="engine1/jquery.js"></script>
 
-
+<!-- Bootstrap JS (for collapse functionality) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

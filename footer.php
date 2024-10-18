@@ -91,6 +91,7 @@
 
     <!-- bootstrap js -->
     <script src="js/bootstrap.min.js "></script>
+    
 
     <script src="js/owl.carousel.min.js "></script>
 
@@ -133,7 +134,6 @@ _gaq.push(['_trackPageview']);
     <!-- main js -->
     <script src="js/scripts.js "></script>
 
-    <!-------------------------------------------------------->
 
 
 </body>

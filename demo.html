@@ -1,112 +1,334 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Owl Carousel with Read More Button</title>
-    <!-- Add Owl Carousel CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
-
-    <style>
-        /* Styling for the carousel container */
-        .owl-carousel .item {
-            position: relative;
-            text-align: center;
-            background-size: cover;
-            background-position: center;
-            height: 500px;
-        }
-
-        /* Overlay for text content */
-        .carousel-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.4);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            color: white;
-        }
-
-        /* Heading and subheading styles */
-        .carousel-title {
-            font-size: 32px;
-            font-weight: bold;
-        }
-
-        .carousel-subtitle {
-            font-size: 18px;
-            margin: 10px 0;
-        }
-
-        /* Styling for the Read More button */
-        .read-more-btn {
-            background-color: #ff0000;
-            color: #fff;
-            padding: 10px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 16px;
-            margin-top: 20px;
-        }
-
-        .read-more-btn:hover {
-            background-color: #e60000;
-        }
-    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </head>
 <body>
 
-<!-- Owl Carousel -->
-<div class="owl-carousel">
-    <div class="item" style="background-image: url('data1/images/slider1.jpg');">
-        <div class="carousel-overlay">
-            <h2 class="carousel-title">Emotional Chakravyuh Learnings</h2>
-            <p class="carousel-subtitle">from Bhagavad Gita</p>
-            <a href="#" class="read-more-btn">Read More</a>
-        </div>
-    </div>
-
-    <div class="item" style="background-image: url('data1/images/slider2.jpg');">
-        <div class="carousel-overlay">
-            <h2 class="carousel-title">Life Lessons from Mahabharata</h2>
-            <p class="carousel-subtitle">Ancient Wisdom for Modern Life</p>
-            <a href="#" class="read-more-btn">Read More</a>
-        </div>
-    </div>
-
-    <div class="item" style="background-image: url('data1/images/slider3.jpg');">
-        <div class="carousel-overlay">
-            <h2 class="carousel-title">Mindfulness in Daily Life</h2>
-            <p class="carousel-subtitle">Guidance from the Gita</p>
-            <a href="#" class="read-more-btn">Read More</a>
-        </div>
-    </div>
-</div>
-
-<!-- Add jQuery and Owl Carousel JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
-
-<!-- Initialize Owl Carousel -->
-<script>
-    $(document).ready(function() {
-        $(".owl-carousel").owlCarousel({
-            items: 1,          // Show one item at a time
-            loop: true,        // Infinite looping
-            autoplay: true,    // Auto play the slides
-            autoplayTimeout: 5000, // 5 seconds delay between slides
-            dots: true,        // Show navigation dots
-            nav: true,         // Show navigation arrows
-            navText: ["<", ">"] // Custom navigation text for arrows
-        });
-    });
-</script>
-
+    <div class="container">
+        <div class="col-12">
+           <div class="section-title text-center title-gap mt-3">
+             <h2>Past Events</h2>
+             <img src="images/line.png" alt="" />
+           </div>  
+         </div>
+      
+         <div class="row">
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInLeft animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <a href="images/11-march-2023.jpg" data-lightbox="example-set">
+                       <img src="images/11-march-2023.jpg" class="img-responsive zoom-img img-thumbnail"
+                           style="height:280px; width:100%; object-fit:cover" />
+                       <div class="view-caption">
+                           <span class="fa fa-search"></span>
+                       </div>
+                   </a>
+               </div>
+           </div>
+ 
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInLeft animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <a href="images/news-1.jpg" data-lightbox="example-set">
+                       <img src="images/news-1.jpg" class="img-responsive zoom-img img-thumbnail"
+                           style="height:280px; width:100%; object-fit:cover" />
+                       <div class="view-caption">
+                           <span class="fa fa-search"></span>
+                       </div>
+                   </a>
+               </div>
+           </div>
+ 
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInRight animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <a href="images/news-2.jpg" data-lightbox="example-set">
+                       <img src="images/news-2.jpg" class="img-responsive zoom-img img-thumbnail"
+                           style="height:280px; width:100%; object-fit:cover" />
+                       <div class="view-caption">
+                           <span class="fa fa-search"></span>
+                       </div>
+                   </a>
+               </div>
+           </div>
+ 
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 gallery-grids wow animate fadeInRight animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <a href="images/news-3.jpg" data-lightbox="example-set">
+                       <img src="images/news-3.jpg" class="img-responsive zoom-img img-thumbnail"
+                           style="height:280px; width:100%; object-fit:cover" />
+                       <div class="view-caption">
+                           <span class="fa fa-search"></span>
+                       </div>
+                   </a>
+               </div>
+           </div>
+ 
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 gallery-grids wow animate fadeInRight animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <a href="images/news-4.jpg" data-lightbox="example-set">
+                       <img src="images/news-4.jpg" class="img-responsive zoom-img img-thumbnail"
+                           style="height:280px; width:100%; object-fit:cover" />
+                       <div class="view-caption">
+                           <span class="fa fa-search"></span>
+                       </div>
+                   </a>
+               </div>
+           </div>
+ 
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 gallery-grids wow animate fadeInRight animated"
+               data-wow-duration="1s" data-wow-delay="1.2s">
+               <div class="w3ls-hover">
+                   <iframe width="100%" height="280" src="https://www.youtube.com/embed/_8Xvkdf_5gQ" title="YouTube video player"
+                       frameborder="0"
+                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                       allowfullscreen></iframe>
+               </div>
+           </div>
+ 
+          <div class="clearfix"></div>
+         </div>
+       </div>
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+</html> -->
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dr. Prashant Khankhoje</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="HuBGMQM_5Rr39v_laeikm16qATStPzARFJLyGXgYs2U" />
+
+    <!-- External CSS Libraries -->
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;500&display=swap" rel="stylesheet" />
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <!-- Lightbox, Bootstrap, Owl Carousel, Swiper, Magnific Popup, MetisMenu -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/swiper.min.css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" />
+    <link rel="stylesheet" href="css/metisMenu.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/lightbox.css" />
+    <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/new-responsive.css" />
+
+    <!-- WOWSlider Specific CSS -->
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+
+    <!-- Additional Styles -->
+    <link href="css1/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css1/owl.carousel.css" />
+    <link href="css1/owl.theme.css" rel="stylesheet" />
+    <link href="css1/style-Testimonial.css" rel="stylesheet" />
+    <link href="css-m/lightgallery.css" rel="stylesheet" />
+    <link href="css/form.css" rel="stylesheet" />
+
+    <!-- Inline Style for 'Read More' Section -->
+    <style>
+      #more {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="header-area">
+        <div class="header-bottom">
+          <div class="container">
+            <div class="row align-items-center g-3">
+              <!-- Logo Area -->
+              <div class="col-lg-4 col-sm-7 col-10">
+                <div class="logo">
+                  <a href="index.php">
+                    <img src="images/prashant-khankhoje-logo.jpg" class="img1"
+                      alt="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune"
+                      title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" />
+                  </a>
+                </div>
+              </div>
+    
+              <!-- Navbar for Desktop -->
+              <div class="col-lg-8 d-none d-lg-block">
+                <ul class="mainmenu d-flex justify-content-end">
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="about-prashant-khankhoje.php">About Us</a></li>
+                  <li>
+                    <a href="#" class="dropdown-name">Our Expertise</a>
+                    <ul class="dropdown row p-3">
+                      <li class="col-6"><a href="essentials-meetings.php">Essentials of Meeting</a></li>
+                      <li class="col-6"><a href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
+                      <li class="col-6"><a href="happiness-unlimited.php">Happiness Unlimited</a></li>
+                      <li class="col-6"><a href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
+                      <li class="col-6"><a href="team-building.php">Team Building</a></li>
+                      <li class="col-6"><a href="time-management.php">Time management</a></li>
+                      <li class="col-6"><a href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
+                      <li class="col-6"><a href="stress-management.php">Stress Management</a></li>
+                      <li class="col-6"><a href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
+                      <li class="col-6"><a href="coping-with-climate-change.php">Coping with Climate Change</a></li>
+                      <li class="col-6"><a href="Campus-to-Corporate.php">Campus to Corporate</a></li>
+                      <li class="col-6"><a href="looking-beyond.php">Looking beyond ...</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="testimonials.php">Testimonials</a></li>
+                  <li><a href="#" class="dropdown-name">Gallery</a>
+                    <ul class="dropdown drop-left">
+                      <li><a href="photo-gallery.php">Photo</a></li>
+                      <li><a href="media-gallery.php">Media</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="contact-prashant-khankhoje.php">Contact us</a></li>
+                  <li><a href="enquiry.php">Enquiry</a></li>
+                </ul>
+              </div>
+    
+              <!-- Navbar for Mobile -->
+              <div class="col-2 col-sm-3 d-lg-none text-end">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNavbar"
+                  aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="bi bi-justify text-white"></span>
+                </button>
+              </div>
+    
+              <!-- Collapsible Navbar for Mobile -->
+              <div class="collapse mobile-nav col-12 d-lg-none" id="mobileNavbar">
+                <ul class="navbar-nav d-flex flex-column text-center">
+                  <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                  <li class="nav-item"><a class="nav-link" href="about-prashant-khankhoje.php">About Us</a></li>
+                  <li class="nav-item">
+                    <a class="nav-link dropdown-toggle" href="#" id="expertiseDropdown" role="button"
+                      data-bs-toggle="dropdown" aria-expanded="false">Our Expertise</a>
+                    <ul class="dropdown-menu" aria-labelledby="expertiseDropdown">
+                      <li><a class="dropdown-item" href="essentials-meetings.php">Essentials of Meeting</a></li>
+                      <li><a class="dropdown-item" href="emotional-chakravuh.php">Emotional Chakravuh</a></li>
+                      <li><a class="dropdown-item" href="happiness-unlimited.php">Happiness Unlimited</a></li>
+                      <li><a class="dropdown-item" href="unleashing-the-leader.php">Unleashing the Leader in U</a></li>
+                      <li><a class="dropdown-item" href="team-building.php">Team Building</a></li>
+                      <li><a class="dropdown-item" href="time-management.php">Time management</a></li>
+                      <li><a class="dropdown-item" href="vision-mission-goal.php">Vision, Mission & Goal setting</a></li>
+                      <li><a class="dropdown-item" href="stress-management.php">Stress Management</a></li>
+                      <li><a class="dropdown-item" href="ESG-Sustainability.php">ESG/Sustainability/....</a></li>
+                      <li><a class="dropdown-item" href="coping-with-climate-change.php">Coping with Climate Change</a></li>
+                      <li><a class="dropdown-item" href="Campus-to-Corporate.php">Campus to Corporate</a></li>
+                      <li><a class="dropdown-item" href="looking-beyond.php">Looking beyond ...</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="testimonials.php">Testimonials</a></li>
+                  <li class="nav-item">
+                    <a class="nav-link dropdown-toggle" href="#" id="galleryDropdown" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">Gallery</a>
+                    <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
+                      <li><a class="dropdown-item" href="photo-gallery.php">Photo</a></li>
+                      <li><a class="dropdown-item" href="media-gallery.php">Media</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="contact-prashant-khankhoje.php">Contact us</a></li>
+                  <li class="nav-item"><a class="nav-link" href="enquiry.php">Enquiry</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+    <!-- JavaScript Files -->
+    <!-- Modernizr -->
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- JQuery and Plugins -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/magnific-popup.min.js"></script>
+    <script src="js/metisMenu.min.js"></script>
+
+    <!-- WOWSlider Script -->
+    <script src="engine1/script.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="feedbackallNew_country.js"></script>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const menuItems = document.querySelectorAll('.mainmenu li');
+
+        // On page load: Set the active class based on the current URL
+        const currentPath = window.location.pathname.split('/').pop(); // Get the current page name
+        let isActiveSet = false; // Track if an active class has been set
+
+        menuItems.forEach(item => {
+          const link = item.querySelector('a');
+
+          // If the href matches the current path, add the active class
+          if (link && link.getAttribute('href') === currentPath) {
+            item.classList.add('active');
+            isActiveSet = true; // Set active if matched
+          }
+
+          // Check for dropdown items
+          if (item.querySelector('ul')) {
+            const dropdownItems = item.querySelectorAll('ul li');
+            dropdownItems.forEach(dropdownItem => {
+              const dropdownLink = dropdownItem.querySelector('a');
+              if (dropdownLink && dropdownLink.getAttribute('href') === currentPath) {
+                item.classList.add('active'); // Set active on parent <li>
+              }
+            });
+          }
+        });
+
+        // If no active class was set, set the "Home" item as active by default
+        if (!isActiveSet) {
+          const homeItem = Array.from(menuItems).find(item =>
+            item.querySelector('a').getAttribute('href') === 'index.php'
+          );
+          if (homeItem) {
+            homeItem.classList.add('active');
+          }
+        }
+
+        // Add click event listener for dynamically changing the active class
+        menuItems.forEach(item => {
+          const link = item.querySelector('a');
+          link.addEventListener('click', function () {
+            // Remove active class from all <li> elements
+            menuItems.forEach(li => li.classList.remove('active'));
+
+            // Add active class to the clicked <li>
+            item.classList.add('active');
+          });
+        });
+      });
+    </script>
+  </body>
 </html>

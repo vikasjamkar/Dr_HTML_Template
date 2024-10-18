@@ -3940,10 +3940,11 @@ padding: 8px 12px;
 /*=============== Responsive Media Query =================*/
 @media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
 
+    
 	.header-area2 .menu {
     border: 2px solid #fff;
     margin: 30px 0;
-}
+   }
 
 .metismenu {
     float: left;
@@ -3992,6 +3993,9 @@ padding: 2em 0;
 	#project_section{
 		height: auto;
 		padding: 0 0 2em;
+	}
+    .project{
+		height: 180px;
 	}
 	.project h2, .infra h2{
 		font-weight: 500;
@@ -4158,9 +4162,6 @@ text-align: center;
     font-size: 20px;
     font-weight: 400;
 }
-
-
-
 
 
 .m2 {
@@ -4458,8 +4459,5 @@ box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19) !important;
     }
   }
 
-.mobile-navbar{
-   display:none;
-}
 
-  
+
