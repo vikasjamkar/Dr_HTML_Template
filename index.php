@@ -82,14 +82,14 @@
 
     <div class="about-area ptb-120">
       <div class="container">
-        <div align="center">
+        <!-- <div align="center">
           <img src="images/welcome-page.jpg" alt="PRASHANT KHANKHOJE" />
-        </div>
+        </div> -->
 
         <!-- <h2 class="about-heading">WELCOME TO PRASHANT KHANKHOJE</h2> -->
 
         <div class="clearfix"></div>
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-8 col-12">
             <div class="about-wrap">
               <p class="m1">Dr. Prashant Khankhoje</p>
@@ -115,28 +115,10 @@
                   Sustainability, ESG/BRSR ---with Experience of 37 years in the corporate world.
 
 
-              <!--Ambassador for Smart & Efficient Energy, Power sector Professional, working in conventional & Renewable energy field.    -->
-
-              <!--Strategic Business Transformation Coach, Strategic Energy Advisor,Success Mentor, Motivational Speaker, Mind Trainer, Corporate Trainer with Experience of 36 years in corporate world.-->
+          
               </strong></h1>
 
-              <!-- <h1 class="m2">
-Transformation coach, Motivational Speaker Mentor, Mind Trainer, Strategic Advisor, Expertise in Renewable Energy</h1> -->
-              <!-- <strong
-                >Founder & MD - A2Z Energies (Part of A2Z Advisory & Consultancy
-                A2Z ADCON LLP)</strong
-              ><br /> -->
-
-              <!-- Strategic Energy Advisor, Transformation Coach, Success Mentor Motivational Speaker, Mind Trainer, Strategic Business Coach, Corporate Trainer with Experience of more than 35 years in corporate world in Strategic Planning & Business Development <br><br>
-Ambassador for Smart & Efficient Energy, Power sector Professional, working in conventional & Renewable energy field.<br><br> -->
-
-              <!-- <h1 class="m2">
-                <strong
-                  >Trainer / Coach - Transformation, Motivation & Emotional
-                  Intelligence at workplace, Team Building, Time Management,
-                  Goal setting, Career Guidance to Students.</strong
-                >
-              </h1> -->
+              
 
               <div class="row">
                 <div
@@ -167,7 +149,7 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
               <img src="images/dr.jfif" alt="" />
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -184,34 +166,39 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
         </div>
       </div>
 
-      <div class="row py-4">
-        <div class="col-12 col-lg-6 col-md-6">
-          <strong>In this rapidly changing environment,</strong>
-          <ul style="list-style-type:disc;">
-            <li>Businesses are struggling with Energy Conservation, Emotions Conservation or Environment conservation/ESG Compliant. </li>
-            <li>Business leaders/top level executives lose track of their dreams, values, strengths, and aspirations.</li>
-            <li>Business leaders must cope with high levels of uncertainty, volatility, and rapid change.</li>
-            <li>Leaders have many challenges like maintaining professional & personal relationships, conflict resolution, communication, time management, Procrastination, Team Building ---and hence burn out.</li>
-            <li>Leaders have a strong desire to take their life to the next level & learn techniques to live life by choice.</li>
-            <li>Business leaders/top level executives get stressed out due to many challenges to maintain work life balance.</li>
-            <li>Assocham reports that 42.5 percent of Indian corporate employees suffer from depression or generalised anxiety disorder.</li>
-          </ul>
+      <div class="container">
+  <div class="row py-4">
+    <!-- Left Column -->
+    <div class="col-12 col-md-6 col-lg-6">
+      <strong>In this rapidly changing environment,</strong>
+      <ul style="list-style-type:disc;">
+        <li>Businesses are struggling with Energy Conservation, Emotions Conservation or Environment conservation/ESG Compliant.</li>
+        <li>Business leaders/top level executives lose track of their dreams, values, strengths, and aspirations.</li>
+        <li>Business leaders must cope with high levels of uncertainty, volatility, and rapid change.</li>
+        <li>Leaders have many challenges like maintaining professional & personal relationships, conflict resolution, communication, time management, Procrastination, Team Building ---and hence burn out.</li>
+        <li>Leaders have a strong desire to take their life to the next level & learn techniques to live life by choice.</li>
+        <li>Business leaders/top level executives get stressed out due to many challenges to maintain work life balance.</li>
+        <li>Assocham reports that 42.5 percent of Indian corporate employees suffer from depression or generalised anxiety disorder.</li>
+      </ul>
+    </div>
+    
+    <!-- Right Column -->
+    <div class="col-12 col-md-6 col-lg-6">
+      <strong>As business leader do you ever feel like</strong>
+      <ul style="list-style-type:disc;">
+        <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
+        <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
+        <li>Your inbox is overflowing with week/month-old messages which you have not replied to, and new ones are piling up daily.</li>
+        <li>Your days are spent in firefighting, or you seem to avoid your team and vendors.</li>
+        <li>Do you think you are the operator of your business – not the owner.</li>
+        <li>It's time to make a change but don’t know where & how to start.</li>
+        <li>Do you think your team is not enthusiastic like you?</li>
+        <li>Frustrated & worried that only 24 hours in the day are not sufficient?</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-        </div>
-        <div class="col-12 col-lg-6 col-md-6">
-         <strong>As business leader do you ever feel like</strong>
-          <ul style="list-style-type:disc;">
-            <li>You're working harder and harder, but not making the progress you want in your business? Turn over stuck up but fixed cost shoots up?</li>
-            <li>Are you constantly stressed and feeling frustrated by the day-to-day tasks?</li>
-            <li>Your inbox is overflowing with week/month-old messages which you have not replied to, and new ones are piling up daily.</li>
-            <li>Your days are spent in firefighting, or you seem to avoid your team and vendors.</li>
-            <li>Do you think you are the operator of your business – not the owner.  </li>
-            <li>It's time to make a change but don’t know where & how to start.</li>
-            <li>Do you think your team is not enthusiastic like you? </li>
-            <li>Frustrated & worried that only 24 hours in the day are not sufficient?</li>
-          </ul>
-        </div>
-      </div>
 
 
 
@@ -241,18 +228,14 @@ Ambassador for Smart & Efficient Energy, Power sector Professional, working in c
           </ul>
           
         </div>
-        <strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM</strong>
+        <div class="d-flex justify-content-start align-items-center"><strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM </strong>
+        <div class="readmore ms-4">
+                    <a href="about-prashant-khankhoje.php">Read More ...</a>
+                  </div></div>
       </div>
     
     </div>
 
-
-     
-
-
-
-
-   
     <div class="container">
       <div class="col-12">
           <div class="section-title text-center title-gap mt-3">
