@@ -5,4 +5,9 @@
         place-items: center;
         height: 180px !important;
     }
+    .project p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 1.5;
+    }
 }

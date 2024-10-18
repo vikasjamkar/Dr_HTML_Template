@@ -81,9 +81,9 @@
   <header class="header-area">
     <div class="header-bottom">
       <div class="container">
-        <div class="row align-items-center g-3">
+        <div class="row align-items-center">
           <!-- Logo Area -->
-          <div class="col-lg-4 col-sm-7 col-10">
+          <div class="col-lg-4 col-sm-7 col-8">
             <div class="logo">
               <a href="index.php">
                 <h5 class="text-white">Prashant Khankhoje</h5>
@@ -129,7 +129,7 @@
           </div>
 
           <!-- Navbar for Mobile -->
-          <div class="col-2 col-sm-3 d-lg-none text-end">
+          <div class="col-4 col-sm-3 d-lg-none text-end">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNavbar"
               aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
               <span class="bi bi-justify text-white"></span>

@@ -3992,17 +3992,14 @@ padding: 2em 0;
 	}
 	#project_section{
 		height: auto;
-		padding: 0 0 2em;
-	}
-    .project{
-		height: 180px;
+		/* padding: 0 0 2em; */
 	}
 	.project h2, .infra h2{
 		font-weight: 500;
 		font-size: 24px;
 	}
 	.gallery-grids {
-    margin-bottom: 2em;
+    margin-bottom: 1.3em;
 		font-size: 20px;
 }
 

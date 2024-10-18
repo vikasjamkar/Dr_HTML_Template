@@ -119,26 +119,30 @@
 
     
        <div class="row">
-        <div class="col-12">
-          <strong>Glad to offer my services to be your preferred coach/mentor</strong>
-          <ul style="list-style-type:disc;">
-            <li>Imagine having support of someone who champions your success as much as you do & who is not your competitor.</li>
-            <li>Who encourage you to tap into your own resources to find solutions you didn’t know you had?</li>
-            <li>Who will challenge you to expand your horizons to see things from different perspectives & viewpoints?</li>
-            <li>A coach is someone who is neutral & non-judgmental.</li>
-            <li>A Coach can help to find out solution for Personal challenges like Health, Self-Growth, Family, Relationship, Stress, Trust issues. </li>
-            <li>A Coach can help to find out solutions for Professional challenges like Planning, Team building, Time Management, Decision making, Communication.</li>
-            <li>Executive coaching is an efficient, high impact process that helps high performing people in leadership roles improve results in ways that are sustained over time. </li>
-            <li>Coaching does not require invasive processes, large external teams and lengthy reports, analysis to get results.</li>
-            <li>Coaching brings very effective results to individuals as well as organisation by empowering individuals personally & professionally to reach new heights of success, happiness, and fulfilment.</li>
-          </ul>
-          
+          <div class="col-12">
+            <strong>Glad to offer my services to be your preferred coach/mentor</strong>
+            <ul style="list-style-type:disc;">
+              <li>Imagine having support of someone who champions your success as much as you do & who is not your competitor.</li>
+              <li>Who encourage you to tap into your own resources to find solutions you didn’t know you had?</li>
+              <li>Who will challenge you to expand your horizons to see things from different perspectives & viewpoints?</li>
+              <li>A coach is someone who is neutral & non-judgmental.</li>
+              <li>A Coach can help to find out solution for Personal challenges like Health, Self-Growth, Family, Relationship, Stress, Trust issues. </li>
+              <li>A Coach can help to find out solutions for Professional challenges like Planning, Team building, Time Management, Decision making, Communication.</li>
+              <li>Executive coaching is an efficient, high impact process that helps high performing people in leadership roles improve results in ways that are sustained over time. </li>
+              <li>Coaching does not require invasive processes, large external teams and lengthy reports, analysis to get results.</li>
+              <li>Coaching brings very effective results to individuals as well as organisation by empowering individuals personally & professionally to reach new heights of success, happiness, and fulfilment.</li>
+            </ul>
+            
+          </div>
+          <div class="d-flex justify-content-center justify-content-lg-start align-items-center flex-wrap text-center text-lg-start">
+            <strong style="padding: 10px 0px;margin-right:15px">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM</strong>
+            <div class="readmore">
+              <a href="about-prashant-khankhoje.php">Read More ...</a>
+            </div>
+          </div>
+
         </div>
-        <div class="d-flex justify-content-start align-items-center flex-wrap"><strong style="padding:10px 0px;">COACH - Dr PRASHANT KHANKHOJE - BE, PhD, PGDBM, DSM, DFM </strong>
-        <div class="readmore ms-4">
-                    <a href="about-prashant-khankhoje.php">Read More ...</a>
-                  </div></div>
-       </div>
+
     
     </div>
 
@@ -203,7 +207,7 @@
               </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 gallery-grids wow animate fadeInRight animated"
+          <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-1 mt-lg-4 gallery-grids wow animate fadeInRight animated"
               data-wow-duration="1s" data-wow-delay="1.2s">
               <div class="w3ls-hover">
                   <a href="images/news-4.jpg" data-lightbox="example-set">
@@ -796,13 +800,8 @@
           <div>
             <p></p>
             <p
-              class="write wow bounceInRight animated"
-              data-wow-delay="0.4s"
-              style="
-                visibility: visible;
-                animation-delay: 0.4s;
-                animation-name: bounceInRight;
-              "
+              class="write wow bounceInRight"
+             
             >
               Designed And Developed By
               <a href="https://www.websartech.com" target="_blank"

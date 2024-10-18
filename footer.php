@@ -80,8 +80,7 @@
 
   <div class="copyright">
         <div class="container" align="center">
-            <p class="write  wow bounceInRight animated" data-wow-delay="0.4s"
-                style="visibility: visible; animation-delay: 0.4s; animation-name: bounceInRight;"> Designed And Developed By <a href="https://www.websartech.com" target="_blank">Websar IT Solutions</a>
+            <p class="write  wow bounceInRight"> Designed And Developed By <a href="https://www.websartech.com" target="_blank">Websar IT Solutions</a>
 
              </p>
         </div>
