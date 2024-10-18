@@ -481,6 +481,7 @@
         margin-bottom: 9px;
         font-size: 14px;
     }
+ 
 }
 
 
@@ -511,7 +512,7 @@
     }
     ul.contact-info.d-flex.justify-content-end {
         display: flex !important;
-        justify-content: flex-end; !important;
+        justify-content: flex-end!important;
     }
     .contact-info li {
         padding: 0px 25px;
@@ -543,11 +544,10 @@
         font-size: 18px;
         line-height: 24px;
     }
+    
 }
 
 /* small mobile :480px. */
-
-
 
 @media (min-width: 480px) and (max-width: 575.98px) {
     .container {

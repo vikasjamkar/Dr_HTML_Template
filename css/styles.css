@@ -4450,9 +4450,16 @@ box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19) !important;
     bottom: 20px;
     left: 10px;
     z-index: 99999;
+    display: none;
 
     img {
         max-width: 67%;
        
     }
   }
+
+.mobile-navbar{
+   display:none;
+}
+
+  

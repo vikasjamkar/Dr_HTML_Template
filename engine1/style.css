@@ -280,34 +280,3 @@ ul{
 	padding-right:50px;
 }
 
-/* Ensure the list item is relatively positioned */
-.ws_images ul li {
-    position: relative;
-	background-color: red;
-	z-index: -10;
-  }
-
-  /* Position slider-content absolutely within the list item */
-  .owl-slider-btn{
-    position: absolute !important;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 1000; /* Ensure it's on top of the image */
-  }
-
-  /* Style for the Read More button */
-  .owl-slider-btn .read-more-btn {
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 16px;
-    z-index: 15; /* Ensure it's higher than the image */
-  }
-
-  /* Hover effect for the Read More button */
-  .read-more-btn:hover {
-    background-color: #0056b3;
-  }
