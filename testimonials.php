@@ -7,8 +7,8 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h1>Testimonials</h1>
+                <div class="col-md-12 mobile-res">
+                    <h2>Testimonials</h2>
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li class="active">Testimonials</li>
@@ -127,63 +127,50 @@
 
             </div>
 
-
-
-           
-
-
-
         </div>
 
         <div class="container">
                 <div class="row g-3">
 
-                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/MjlpKcOA4bQ"
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6"><iframe class="m-i-res" src="https://www.youtube.com/embed/MjlpKcOA4bQ"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe></div>
 
 
-                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7ssgv2sfCjA"
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6"><iframe class="m-i-res" src="https://www.youtube.com/embed/7ssgv2sfCjA"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe></div>
 
 
-                    <div class="col-md-4"><iframe width="100%" height="315" src="https://www.youtube.com/embed/WquQY3Iu5Ys"
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6"><iframe class="m-i-res" src="https://www.youtube.com/embed/WquQY3Iu5Ys"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe></div>
-
-
-                </div>
-
-                <div class="row g-3 pb-4">
-
-                    <div class="col-md-4">
-                        <video width="100%" height="300px" controls>
+                            allowfullscreen></iframe>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6">
+                        <video class="m-i-res" controls>
                             <source src="videos/video1.mp4" type="video/mp4">
                         </video>
                     </div>
-                    <div class="col-md-4">
-                        <video width="100%" height="300px" controls>
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6">
+                        <video class="m-i-res" controls>
                             <source src="videos/video5.mp4" type="video/mp4">
                         </video>
                     </div>
-                    
-
-                    <div class="col-md-4">
-                        <video width="100%" height="300px" controls>
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6">
+                        <video class="m-i-res" controls>
                             <source src="videos/video2.mp4" type="video/mp4">
                         </video>
                     </div>
-                    <div class="col-md-4">
-                        <video width="100%" height="300px" controls>
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6">
+                        <video class="m-i-res" controls>
                             <source src="videos/video3.mp4" type="video/mp4">
                         </video>
                     </div>
-                    <div class="col-md-4">
-                        <video width="100%" height="300px" controls>
+                    <div class="col-lg-4 col-md-6 col-sm-4 col-xs-6">
+                        <video class="m-i-res" controls>
                             <source src="videos/video4.mp4" type="video/mp4">
                         </video>
                     </div>

@@ -8,8 +8,8 @@
     <section class="breadcrumbs">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h1>Contact us</h1>
+                <div class="col-md-12 mobile-res">
+                    <h2>Contact us</h2>
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li class="active">Contact us</li>

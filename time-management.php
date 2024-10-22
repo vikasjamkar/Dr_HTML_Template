@@ -7,7 +7,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Time management</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -41,7 +41,7 @@
 Time management</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
 <li>Time Management Trainer, Goal Setting Trainer, Magical Morning Routine, Transformation Coach, Strategic Business Coach, Strategic Planning From Pune, Maharashtra, India</li>
 

@@ -10,8 +10,8 @@ $ilength=strlen($mynumber);
     <section class="breadcrumbs">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h1>Connect with us </h1>
+                <div class="col-md-12 mobile-res">
+                    <h2>Connect with us </h2>
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li class="active">Connect with us </li>
@@ -312,11 +312,11 @@ $ilength=strlen($mynumber);
 
     <input cols="33" name="Address"  maxlength="100" class="inputField" placeholder="Address / City / Location :*"  required>
 
- <input  name="telNo" type="text"  class="inputField" placeholder="Tel. No. / Cell No. :*" tabindex="3"  maxlength="10" onkeypress="return  onlyNumberKey(event)" required>
+     <input  name="telNo" type="text"  class="inputField" placeholder="Tel. No. / Cell No. :*" tabindex="3"  maxlength="10" onkeypress="return  onlyNumberKey(event)" required>
 
 
-      <label for="html">Upload  Your File</label><br>
-      <input type="file" name="attachment">
+          <label for="html">Upload  Your File</label><br>
+     <input type="file" name="attachment">
 
 
 
@@ -340,13 +340,13 @@ $ilength=strlen($mynumber);
   <div class="clear"></div>
 
   <div class="container">
-    <div class="row">
-        <div class="col-md-6 col-lg-6 text-right">
-                      <button type="submit" name="submit_form" value="Submit" class="formButton"> Submit </button>
+    <div class="d-flex flex-wrap  mt-4 mt-lg-0">
+        <div>
+          <button type="submit" name="submit_form" value="Submit" class="formButton"> Submit </button>
         </div>
 
-         <div class="col-md-6  col-lg-6  text-left">
-             <input type="reset" value="Reset" class="formButton">
+         <div>
+            <input type="reset" value="Reset" class="formButton">
         </div>
 
     </div>

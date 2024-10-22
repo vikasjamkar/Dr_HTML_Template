@@ -14,41 +14,41 @@
     />
 <!-- 
      -->
-    <!--google-site-verification-->
-    <!-- GL puneseolocal, GSC midpune2, GA midpune2 -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
-
-    <!-- Place favicon.ico in the root directory -->
-    <!-- all css here -->
-    <!-- <link href="css/font-awesome.css" rel="stylesheet">  -->
-    <link rel="stylesheet" href="css/lightbox.css" />
+   <!-- <link href="css/font-awesome.css" rel="stylesheet">  -->
+	<link rel="stylesheet" href="css/lightbox.css">
     <!-- bootstrap v3.3.7 css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- animate css -->
-    <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="css/animate.css">
     <!-- owl.carousel.2.0.0-beta.2.4 css -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
     <!-- swiper.min.css -->
-    <link rel="stylesheet" href="css/swiper.min.css" />
+    <link rel="stylesheet" href="css/swiper.min.css">
     <!-- font-awesome v4.6.3 css -->
-    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- flaticon.css -->
-    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/flaticon.css">
     <!-- magnific-popup.css -->
-    <link rel="stylesheet" href="css/magnific-popup.css" />
+    <link rel="stylesheet" href="css/magnific-popup.css">
     <!-- metisMenu.min.css -->
-    <link rel="stylesheet" href="css/metisMenu.min.css" />
+    <link rel="stylesheet" href="css/metisMenu.min.css">
     <!-- style css -->
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/styles.css">
     <!-- responsive css -->
-    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/new-responsive.css">
     <!-- modernizr css -->
-    <link rel="stylesheet" href="css/new-responsive.css" />
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+	
+ 
+	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;500&display=swap" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
 
-     <!-- Start WOWSlider.com HEAD section -->
-     <link rel="stylesheet" type="text/css" href="engine1/style.css" />
-     
+<!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
     <!-- End WOWSlider.com HEAD section -->
 
     <link
@@ -86,10 +86,10 @@
           <div class="col-lg-4 col-sm-7 col-8">
             <div class="logo">
               <a href="index.php">
-                <h5 class="text-white">Prashant Khankhoje</h5>
-                <!-- <img src="images/prashant-khankhoje-logo.jpg" class="img1"
+                
+                <img src="images/prashant-khankhoje-logo.jpg" class="img1"
                   alt="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune"
-                  title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" /> -->
+                  title="Prashant Khankhoje- Training Consultant, Manifest Unlimited Happiness, Pune" />
               </a>
             </div>
           </div>
@@ -129,14 +129,15 @@
           </div>
 
           <!-- Navbar for Mobile -->
-          <div class="col-4 col-sm-3 d-lg-none text-end">
+           
+          <!-- <div class="col-4 col-sm-3 d-lg-none text-end">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNavbar"
               aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="bi bi-justify text-white"></span>
+              <span class="fa-regular fa-align-justify"></span>
             </button>
           </div>
 
-          <!-- Collapsible Navbar for Mobile -->
+          
           <div class="collapse mobile-nav col-12 d-lg-none" id="mobileNavbar">
             <ul class="navbar-nav d-flex flex-column text-center">
               <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
@@ -171,17 +172,106 @@
               <li class="nav-item"><a class="nav-link" href="contact-prashant-khankhoje.php">Contact us</a></li>
               <li class="nav-item"><a class="nav-link" href="enquiry.php">Enquiry</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
   </header>
 
-
-
-
-
-
+  
+  <div class="header mobile-navbar">
+        <div class="container-box">
+          <input type="checkbox" name="check" id="check">
+          <div class="text-center">
+            <h3 class="logo">Prashant KanKhoje</h3>
+          </div>
+    
+          <div class="mobile-nav-btn">
+            <div class="nav-links">
+              <ul class="mobile-ul">
+                <li class="nav-link" style="--i: .6s">
+                  <a href="index.php">Home</a>
+                </li>
+                <li class="nav-link" style="--i: .6s">
+                  <a  href="about-prashant-khankhoje.php">About Us</a>
+                </li>
+                <li class="nav-link" style="--i: .85s">
+                  <a href="#">Our Expertise<i class="fa fa-caret-down"></i></a>
+                  <div class="mobile-dropdown">
+                    <ul>
+                      <li class="mobile-dropdown-link">
+                        <a href="essentials-meetings.php">Essentials of Meeting</a>
+                      </li>
+                      <li class="mobile-dropdown-link">
+                       <a  href="emotional-chakravuh.php">Emotional Chakravuh</a>
+                      </li>
+                      <div class="mobile-dropdown-link">
+                        <a href="happiness-unlimited.php">Happiness Unlimited</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="unleashing-the-leader.php">Unleashing the Leader in U</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="team-building.php">Team Building</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="time-management.php">Time management</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="vision-mission-goal.php">Vision, Mission & Goal setting</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="stress-management.php">Stress Management</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="ESG-Sustainability.php">ESG/Sustainability/....</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="coping-with-climate-change.php">Coping with Climate Change</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="Campus-to-Corporate.php">Campus to Corporate</a>
+                      </div>
+                      <div class="mobile-dropdown-link">
+                        <a href="looking-beyond.php">Looking beyond ...</a>
+                      </div>
+                      <div class="arrow"></div>
+                    </ul>
+                  </div>
+                </li>
+                <li class="nav-link" style="--i: 1.1s">
+                  <a href="testimonials.php">Testimonials</a>
+                </li>
+                <li class="nav-link" style="--i: .85s">
+                  <a href="#">Gallery<i class="fa fa-caret-down"></i></a>
+                  <div class="mobile-dropdown">
+                    <ul class="mobile-ul">
+                      <li class="mobile-dropdown-link"><a href="photo-gallery.php">Photo</a></li>
+                      <li class="mobile-dropdown-link"><a href="media-gallery.php">Media</a></li>
+                      
+                      <div class="arrow"></div>
+                    </ul>
+                  </div>
+                </li>
+                
+              <li class="nav-link" style="--i: 1.1s"><a href="contact-prashant-khankhoje.php">Contact us</a></li>
+              <li class="nav-link" style="--i: 1.1s"><a href="enquiry.php">Enquiry</a></li>
+                
+              </ul>
+            </div>
+            <!-- <div class="log-sign" style="--i: 1.8s">
+              <a href="#" class="btn transparent">Log in</a>
+              <a href="#" class="btn solid">Sign up</a>
+            </div> -->
+          </div>
+    
+          <div class="hamburger-menu-container">
+            <div class="hamburger-menu">
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
@@ -235,8 +325,6 @@
       });
    </script>
 
-<script src="js/vendor/modernizr-2.8.3.min.js"></script>
-<script type="text/javascript" src="engine1/jquery.js"></script>
-
 <!-- Bootstrap JS (for collapse functionality) -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+

@@ -6,8 +6,8 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<h1>Media Gallery</h1>
+				<div class="col-md-12 mobile-res">
+					<h2>Media Gallery</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
 						<li class="active">Media Gallery</li>
@@ -27,22 +27,22 @@
 <div class="row">
 
 
-<div class="demo-gallery">
+<div class="demo-gallery p-3">
 
             <ul id="lightgallery" class="list-unstyled row">
 
-                 <li class="col-xs-4 col-sm-4 col-md-3" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
-                  <iframe width="260" height="200" src="https://www.youtube.com/embed/ungc0VErsB4?si=JpS3j0KCiCUbEytx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                 <li class="col-xs-4 col-sm-4 col-md-6 col-lg-4" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
+                  <iframe class="m-i-res" src="https://www.youtube.com/embed/ungc0VErsB4?si=JpS3j0KCiCUbEytx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </li>
 
-                           <li class="col-xs-4 col-sm-4 col-md-3" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
-                  <iframe width="260" height="200" src="https://www.youtube.com/embed/M0F3FS-7DfI?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                           <li class="col-xs-4 col-sm-4 col-md-6 col-lg-4" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
+                  <iframe class="m-i-res" src="https://www.youtube.com/embed/M0F3FS-7DfI?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </li>
-                 <li class="col-xs-4 col-sm-4 col-md-3" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
-                  <iframe width="260" height="200" src="https://www.youtube.com/embed/YFlewg5fATk?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                 <li class="col-xs-4 col-sm-4 col-md-6 col-lg-4" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
+                  <iframe class="m-i-res" src="https://www.youtube.com/embed/YFlewg5fATk?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </li>
-                <li class="col-xs-4 col-sm-4 col-md-3" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
-                  <iframe width="260" height="200" src="https://www.youtube.com/embed/sT8f0aMTpEI?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <li class="col-xs-4 col-sm-4 col-md-6 col-lg-4" data-responsive="images/ronch-3.jpg"  data-src="images/ronch-3.jpg" data-sub-php="<h4>Ronch</h4>">
+                  <iframe class="m-i-res" src="https://www.youtube.com/embed/sT8f0aMTpEI?si=3PTTgF8hVGCqt1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </li>
 
 

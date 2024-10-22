@@ -5,8 +5,8 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<h1>Team Building</h1>
+				<div class="col-md-12 mobile-res">
+					<h2>Team Building</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
 						<li class="active">Team Building</li>
@@ -38,7 +38,7 @@
 <h1><p class="m1">PRAISE is to recognize good work, whereas feedback is meant to be constructive, and to help Team member Improve</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
 <li>Team Building Trainer / Coach, Transformation Coach, Mind Trainer, Success Mentor, Emotional Well Being Techniques, Corporate Trainer From Pune, Maharashtra, India
 </li>

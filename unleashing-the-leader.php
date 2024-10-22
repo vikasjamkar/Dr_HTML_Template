@@ -7,7 +7,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Unleashing the Leader in You</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -41,7 +41,7 @@
 Unleashing the Leader in You</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
   <li>WHAT IS LEADER</li>
   <li>LEADERSHIP QUALITIES</li>	

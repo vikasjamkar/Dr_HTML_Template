@@ -6,11 +6,11 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<h2>Campus to Corporate – Youth development</h2>
+				<div class="col-md-12 mobile-res">
+					<h2>Campus to Corporate</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
-						<li class="active">Campus to Corporate – Youth development</li>
+						<li class="active">Campus to Corporate</li>
 					</ul>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 	Campus to Corporate – Youth development</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
 <li>Time Management Trainer, Goal Setting Trainer, Magical Morning Routine, Transformation Coach, Strategic Business Coach, Strategic Planning From Pune, Maharashtra, India</li>
 

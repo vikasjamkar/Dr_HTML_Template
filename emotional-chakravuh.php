@@ -6,7 +6,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Emotional Chakravyuh</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -39,7 +39,7 @@
 To Manifest Unlimited Happiness, Success & Abundance</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
 <li>A Man's own self is his friend, A man's own self is his enemy-Bhagavad Gita</li>
 

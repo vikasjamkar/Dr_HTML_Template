@@ -6,7 +6,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Vision,Mission & Goal Setting</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -40,7 +40,7 @@
 	Vision,Mission & Goal Setting</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
   <li>UNDERSTAND VUCA WORLD </li>
   <li>VISION STATEMENT</li>	

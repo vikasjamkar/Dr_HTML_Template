@@ -6,8 +6,8 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<h1>Sitemap</h1>
+				<div class="col-md-12 mobile-res">
+					<h2>Sitemap</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
 						<li class="active">Sitemap</li>
@@ -29,8 +29,7 @@
       <div class="sitemap-row">
         <div class="sitemap-tabs wow bounceInLeft">
           <div id="myNavbar">
-
-             <ul>
+             <ul class="mobile-btn-res mt-lg-3">
               <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
 
               <li><a href="about-prashant-khankhoje.php"><i class="fa fa-user"></i> About Us</a></li>

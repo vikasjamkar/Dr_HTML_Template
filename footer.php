@@ -89,14 +89,18 @@
 
 
     <!-- bootstrap js -->
-    <script src="js/bootstrap.min.js "></script>
-    
+       <!-- bootstrap js -->
+       <script src="js/bootstrap.min.js "></script>
 
-    <script src="js/owl.carousel.min.js "></script>
+<script src="js/owl.carousel.min.js "></script>
 
-    <script src="js/metisMenu.min.js"></script>
+<script src="js/metisMenu.min.js"></script>
 
-    <script src="js/plugins.js "></script>
+<script src="js/plugins.js "></script>
+
+<!-- main js -->
+<script src="js/scripts.js "></script>
+
 
 
     <script src="js-m/jquery.min.js"></script>
@@ -130,8 +134,7 @@ _gaq.push(['_trackPageview']);
 
 </script>
 
-    <!-- main js -->
-    <script src="js/scripts.js "></script>
+
 
 
 

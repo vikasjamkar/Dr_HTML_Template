@@ -7,7 +7,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Coping with Climate Change</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -41,7 +41,7 @@ Reasons & Ways to mitigate the risk
 </p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 The World is now about 1.2C Warmer
 Than it was in the 19th Century and The Amount of CO2
 In The Atmosphere Has Risen By 50%

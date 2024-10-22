@@ -6,7 +6,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Looking beyond the obvious</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -40,7 +40,7 @@
 	Looking beyond the obvious – 1 to 1 Coaching for Top executives</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
   <li>Wheel of work</li>
   <li>Wheel of work management </li>	

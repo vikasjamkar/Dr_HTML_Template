@@ -6,7 +6,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Essentials Of Meetings</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -40,7 +40,7 @@
 Essentials of Meetings</p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
  <ul>
 	<li>COMMUNICATION IS CRITICAL & ESSENTIAL PART OF CORPORATE FUNCTIONING.</li>
 	<li>IT IS REQUIRED FOR SUCCESSFULLY RUNNING AN ORGANIZATION, AS IT ALLOWS PROFESSIONALS IN THE WORKPLACE TO SHARE IDEAS.

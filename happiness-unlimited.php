@@ -6,7 +6,7 @@
 	<section class="breadcrumbs">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 mobile-res">
 					<h2>Happiness Unlimited</h2>
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -40,7 +40,7 @@
 HAPPINESS, SUCCESS AND ABUDANCE </p></h1><br>
 
 <p>
-<div class="mm">
+<div class="mm m-mt">
 <ul>
 <li>Recognise 'HAPPINESS' and Its Connection with EXPRESSION of Emotion</li>
 <li>Understansing Emotion as Energy (Capacity to Do Work)</li>
