@@ -255,14 +255,12 @@
               data-wow-delay="0.6s"
               data-wow-offset="0"
             >
-              <!-- <h2 class="mb-4 heading-sec" style="" align="center">
-                Mission - To help 100000 people transformation to Happiness
-                success & Emotional well being using specific tools &
-                techniques.
-              </h2> -->
-              <p class="text-center">
-                To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.E3- Explore Smart & Sustainable Solutions for Energy, Emotion & ESG
-              </p>
+              <h2 class="heading-sec-new" style="" align="center">
+                Mission 
+              </h2>
+              <h2 class="text-center">
+                To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.
+              </h2>
             </div>
           </div>
           <!--- END COL -->

@@ -56,8 +56,7 @@ To Manifest Unlimited Happiness, Success & Abundance</p></h1><br>
 
 
 
-<p align="center"><strong>Mission - To help 10000 people Transform to
-Happiness, Success & Emotional well being using specific Tools & Techniques. </strong></p>
+<p align="center"><strong>Mission - To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques. </strong></p>
 
 
 

@@ -43,9 +43,15 @@ Time management</p></h1><br>
 <p>
 <div class="mm m-mt">
 <ul>
-<li>Time Management Trainer, Goal Setting Trainer, Magical Morning Routine, Transformation Coach, Strategic Business Coach, Strategic Planning From Pune, Maharashtra, India</li>
+<li>EACH ONE OF US WANTS TO BE SUCCESSFUL IN LIFE AND WHAT MAKES US SUCCESSFUL? </li>
+<li>ONE OF THE MOST CRITICAL THINGS WHICH DRIVE OUR SUCCESS IS HOW WE SPEND OUR TIME. </li>
+<li>DO YOU THINK YOU ARE WORKING HARD BUT NOT ACHIEVING THE SUCCESS YOU DESERVE?</li>
+<li>ARE YOU CONSTANTLY BUSY UNDER A HUGE WORKLOAD AND WONDER WHEN YOU WILL BE OUT OF THIS SITUATION? </li>
+<li>ARE YOU CONSTANTLY BUSY UNDER A HUGE WORKLOAD AND WONDER WHEN YOU WILL BE OUT OF THIS SITUATION? </li>
+<li>DO YOU COMPLETE THE PLANNED TASK EACH DAY OR HAVE TENDENCY TO PROCRASTINATE. IF SO, WHY?</li>
 
-<li><strong>Mission</strong> - To help 100000 people Transform to Happiness, Success & Emotional well being using specific Tools & Techniques.</li>
+<li><strong>Mission</strong> - To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.</li>
+
 </ul>
 </p>
 </div>
@@ -63,6 +69,8 @@ Time management</p></h1><br>
 <div class="col-md-6">
 
      <img src="images/time-management.jpg" alt="Time management" class="img-responsive img-thumbnail">
+
+	 <img src="images/time-management1.jpg" alt="Time management" class="img-responsive img-thumbnail mt-lg-4">
 
 
 </div>

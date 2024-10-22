@@ -46,7 +46,7 @@
     <li type="1" class="bb">To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best
         version of themselves in every area of their lives using coaching with
         internationally proven tools & techniques.</li>
-    <li type="1">E3- Explore Smart & Sustainable Solutions for Energy, Emotion & ESG</li>
+    <!-- <li type="1">E3- Explore Smart & Sustainable Solutions for Energy, Emotion & ESG</li> -->
 </ol>
 
 <h1 class="m2">
@@ -119,7 +119,7 @@
 <li>❖ ESG/Sustainability/SDG Awareness & Advisory  </li>
 <li>❖ Coping with Climate Change  </li>
 <li>❖ Energy Transition – challenges & Way forward  </li>
-<li>❖ Qualification- BE, PhD, PG DBM, DSM,DFM  </li>
+<!-- <li>❖ Qualification- BE, PhD, PG DBM, DSM,DFM  </li>
 
 <li>❖ Certification- “Empathy & Emotional Intelligence at work” University of California,
 Berkeley  </li>
@@ -129,10 +129,13 @@ Berkeley  </li>
 <li>❖ Dale Carnegie Training – “A partnership for Management Excellence “  </li>
 <li>❖ Associate Meditation Coach -Buddha CEO  </li>
 <li>❖ ESG/BRSR Expert – World Development Corporation, Directors’ Institute  </li>
-<li>❖ ACC - International Coaching Federation USA   </li>
+<li>❖ ACC - International Coaching Federation USA   </li> -->
 
 
 </ol>
+<p class="aa">
+      <strong >Professional </strong>
+    </p>
     <ol>
         <li>✓ Chartered Engineer (India)</li>
         <li>✓ FELLOW Institution of Engineers (India)  </li>

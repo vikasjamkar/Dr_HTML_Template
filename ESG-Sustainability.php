@@ -44,7 +44,7 @@
 <ul>
 <li>Time Management Trainer, Goal Setting Trainer, Magical Morning Routine, Transformation Coach, Strategic Business Coach, Strategic Planning From Pune, Maharashtra, India</li>
 
-<li><strong>Mission</strong> - To help 100000 people Transform to Happiness, Success & Emotional well being using specific Tools & Techniques.</li>
+<li><strong>Mission</strong> - To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.</li>
 </ul>
 </p>
 </div>

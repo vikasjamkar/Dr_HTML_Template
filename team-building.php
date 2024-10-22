@@ -44,7 +44,7 @@
 </li>
 <li>Transformation coach, Mind Trainer, Success Mentor with more than 3 decades of Experience in Corporate world</li>
 
-<li><strong>Mission</strong> - To help 100000 people Transform to Happiness, Success & Emotional well being using specific Tools & Techniques.</li>
+<li><strong>Mission</strong> - To Inspire 1 lakh people, Transform & Enrich their lives by exploring the best version of themselves in every area of their lives using coaching with internationally proven tools & techniques.</li>
 </ul>
 </p>
 </div>
